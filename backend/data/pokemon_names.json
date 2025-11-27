@@ -1,0 +1,5127 @@
+[
+  {
+    "number": "0001",
+    "korean_name": "이상해씨",
+    "english_name": "Bulbasaur"
+  },
+  {
+    "number": "0002",
+    "korean_name": "이상해풀",
+    "english_name": "Ivysaur"
+  },
+  {
+    "number": "0003",
+    "korean_name": "이상해꽃",
+    "english_name": "Venusaur"
+  },
+  {
+    "number": "0004",
+    "korean_name": "파이리",
+    "english_name": "Charmander"
+  },
+  {
+    "number": "0005",
+    "korean_name": "리자드",
+    "english_name": "Charmeleon"
+  },
+  {
+    "number": "0006",
+    "korean_name": "리자몽",
+    "english_name": "Charizard"
+  },
+  {
+    "number": "0007",
+    "korean_name": "꼬부기",
+    "english_name": "Squirtle"
+  },
+  {
+    "number": "0008",
+    "korean_name": "어니부기",
+    "english_name": "Wartortle"
+  },
+  {
+    "number": "0009",
+    "korean_name": "거북왕",
+    "english_name": "Blastoise"
+  },
+  {
+    "number": "0010",
+    "korean_name": "캐터피",
+    "english_name": "Caterpie"
+  },
+  {
+    "number": "0011",
+    "korean_name": "단데기",
+    "english_name": "Metapod"
+  },
+  {
+    "number": "0012",
+    "korean_name": "버터플",
+    "english_name": "Butterfree"
+  },
+  {
+    "number": "0013",
+    "korean_name": "뿔충이",
+    "english_name": "Weedle"
+  },
+  {
+    "number": "0014",
+    "korean_name": "딱충이",
+    "english_name": "Kakuna"
+  },
+  {
+    "number": "0015",
+    "korean_name": "독침붕",
+    "english_name": "Beedrill"
+  },
+  {
+    "number": "0016",
+    "korean_name": "구구",
+    "english_name": "Pidgey"
+  },
+  {
+    "number": "0017",
+    "korean_name": "피죤",
+    "english_name": "Pidgeotto"
+  },
+  {
+    "number": "0018",
+    "korean_name": "피죤투",
+    "english_name": "Pidgeot"
+  },
+  {
+    "number": "0019",
+    "korean_name": "꼬렛",
+    "english_name": "Rattata"
+  },
+  {
+    "number": "0020",
+    "korean_name": "레트라",
+    "english_name": "Raticate"
+  },
+  {
+    "number": "0021",
+    "korean_name": "깨비참",
+    "english_name": "Spearow"
+  },
+  {
+    "number": "0022",
+    "korean_name": "깨비드릴조",
+    "english_name": "Fearow"
+  },
+  {
+    "number": "0023",
+    "korean_name": "아보",
+    "english_name": "Ekans"
+  },
+  {
+    "number": "0024",
+    "korean_name": "아보크",
+    "english_name": "Arbok"
+  },
+  {
+    "number": "0025",
+    "korean_name": "피카츄",
+    "english_name": "Pikachu"
+  },
+  {
+    "number": "0026",
+    "korean_name": "라이츄",
+    "english_name": "Raichu"
+  },
+  {
+    "number": "0027",
+    "korean_name": "모래두지",
+    "english_name": "Sandshrew"
+  },
+  {
+    "number": "0028",
+    "korean_name": "고지",
+    "english_name": "Sandslash"
+  },
+  {
+    "number": "0029",
+    "korean_name": "니드런♀",
+    "english_name": "Nidoran F"
+  },
+  {
+    "number": "0030",
+    "korean_name": "니드리나",
+    "english_name": "Nidorina"
+  },
+  {
+    "number": "0031",
+    "korean_name": "니드퀸",
+    "english_name": "Nidoqueen"
+  },
+  {
+    "number": "0032",
+    "korean_name": "니드런♂",
+    "english_name": "Nidoran M"
+  },
+  {
+    "number": "0033",
+    "korean_name": "니드리노",
+    "english_name": "Nidorino"
+  },
+  {
+    "number": "0034",
+    "korean_name": "니드킹",
+    "english_name": "Nidoking"
+  },
+  {
+    "number": "0035",
+    "korean_name": "삐삐",
+    "english_name": "Clefairy"
+  },
+  {
+    "number": "0036",
+    "korean_name": "픽시",
+    "english_name": "Clefable"
+  },
+  {
+    "number": "0037",
+    "korean_name": "식스테일",
+    "english_name": "Vulpix"
+  },
+  {
+    "number": "0038",
+    "korean_name": "나인테일",
+    "english_name": "Ninetales"
+  },
+  {
+    "number": "0039",
+    "korean_name": "푸린",
+    "english_name": "Jigglypuff"
+  },
+  {
+    "number": "0040",
+    "korean_name": "푸크린",
+    "english_name": "Wigglytuff"
+  },
+  {
+    "number": "0041",
+    "korean_name": "주뱃",
+    "english_name": "Zubat"
+  },
+  {
+    "number": "0042",
+    "korean_name": "골뱃",
+    "english_name": "Golbat"
+  },
+  {
+    "number": "0043",
+    "korean_name": "뚜벅쵸",
+    "english_name": "Oddish"
+  },
+  {
+    "number": "0044",
+    "korean_name": "냄새꼬",
+    "english_name": "Gloom"
+  },
+  {
+    "number": "0045",
+    "korean_name": "라플레시아",
+    "english_name": "Vileplume"
+  },
+  {
+    "number": "0046",
+    "korean_name": "파라스",
+    "english_name": "Paras"
+  },
+  {
+    "number": "0047",
+    "korean_name": "파라섹트",
+    "english_name": "Parasect"
+  },
+  {
+    "number": "0048",
+    "korean_name": "콘팡",
+    "english_name": "Venonat"
+  },
+  {
+    "number": "0049",
+    "korean_name": "도나리",
+    "english_name": "Venomoth"
+  },
+  {
+    "number": "0050",
+    "korean_name": "디그다",
+    "english_name": "Diglett"
+  },
+  {
+    "number": "0051",
+    "korean_name": "닥트리오",
+    "english_name": "Dugtrio"
+  },
+  {
+    "number": "0052",
+    "korean_name": "나옹",
+    "english_name": "Meowth"
+  },
+  {
+    "number": "0053",
+    "korean_name": "페르시온",
+    "english_name": "Persian"
+  },
+  {
+    "number": "0054",
+    "korean_name": "고라파덕",
+    "english_name": "Psyduck"
+  },
+  {
+    "number": "0055",
+    "korean_name": "골덕",
+    "english_name": "Golduck"
+  },
+  {
+    "number": "0056",
+    "korean_name": "망키",
+    "english_name": "Mankey"
+  },
+  {
+    "number": "0057",
+    "korean_name": "성원숭",
+    "english_name": "Primeape"
+  },
+  {
+    "number": "0058",
+    "korean_name": "가디",
+    "english_name": "Growlithe"
+  },
+  {
+    "number": "0059",
+    "korean_name": "윈디",
+    "english_name": "Arcanine"
+  },
+  {
+    "number": "0060",
+    "korean_name": "발챙이",
+    "english_name": "Poliwag"
+  },
+  {
+    "number": "0061",
+    "korean_name": "슈륙챙이",
+    "english_name": "Poliwhirl"
+  },
+  {
+    "number": "0062",
+    "korean_name": "강챙이",
+    "english_name": "Poliwrath"
+  },
+  {
+    "number": "0063",
+    "korean_name": "캐이시",
+    "english_name": "Abra"
+  },
+  {
+    "number": "0064",
+    "korean_name": "윤겔라",
+    "english_name": "Kadabra"
+  },
+  {
+    "number": "0065",
+    "korean_name": "후딘",
+    "english_name": "Alakazam"
+  },
+  {
+    "number": "0066",
+    "korean_name": "알통몬",
+    "english_name": "Machop"
+  },
+  {
+    "number": "0067",
+    "korean_name": "근육몬",
+    "english_name": "Machoke"
+  },
+  {
+    "number": "0068",
+    "korean_name": "괴력몬",
+    "english_name": "Machamp"
+  },
+  {
+    "number": "0069",
+    "korean_name": "모다피",
+    "english_name": "Bellsprout"
+  },
+  {
+    "number": "0070",
+    "korean_name": "우츠동",
+    "english_name": "Weepinbell"
+  },
+  {
+    "number": "0071",
+    "korean_name": "우츠보트",
+    "english_name": "Victreebel"
+  },
+  {
+    "number": "0072",
+    "korean_name": "왕눈해",
+    "english_name": "Tentacool"
+  },
+  {
+    "number": "0073",
+    "korean_name": "독파리",
+    "english_name": "Tentacruel"
+  },
+  {
+    "number": "0074",
+    "korean_name": "꼬마돌",
+    "english_name": "Geodude"
+  },
+  {
+    "number": "0075",
+    "korean_name": "데구리",
+    "english_name": "Graveler"
+  },
+  {
+    "number": "0076",
+    "korean_name": "딱구리",
+    "english_name": "Golem"
+  },
+  {
+    "number": "0077",
+    "korean_name": "포니타",
+    "english_name": "Ponyta"
+  },
+  {
+    "number": "0078",
+    "korean_name": "날쌩마",
+    "english_name": "Rapidash"
+  },
+  {
+    "number": "0079",
+    "korean_name": "야돈",
+    "english_name": "Slowpoke"
+  },
+  {
+    "number": "0080",
+    "korean_name": "야도란",
+    "english_name": "Slowbro"
+  },
+  {
+    "number": "0081",
+    "korean_name": "코일",
+    "english_name": "Magnemite"
+  },
+  {
+    "number": "0082",
+    "korean_name": "레어코일",
+    "english_name": "Magneton"
+  },
+  {
+    "number": "0083",
+    "korean_name": "파오리",
+    "english_name": "Farfetchd"
+  },
+  {
+    "number": "0084",
+    "korean_name": "두두",
+    "english_name": "Doduo"
+  },
+  {
+    "number": "0085",
+    "korean_name": "두트리오",
+    "english_name": "Dodrio"
+  },
+  {
+    "number": "0086",
+    "korean_name": "쥬쥬",
+    "english_name": "Seel"
+  },
+  {
+    "number": "0087",
+    "korean_name": "쥬레곤",
+    "english_name": "Dewgong"
+  },
+  {
+    "number": "0088",
+    "korean_name": "질퍽이",
+    "english_name": "Grimer"
+  },
+  {
+    "number": "0089",
+    "korean_name": "질뻐기",
+    "english_name": "Muk"
+  },
+  {
+    "number": "0090",
+    "korean_name": "셀러",
+    "english_name": "Shellder"
+  },
+  {
+    "number": "0091",
+    "korean_name": "파르셀",
+    "english_name": "Cloyster"
+  },
+  {
+    "number": "0092",
+    "korean_name": "고오스",
+    "english_name": "Gastly"
+  },
+  {
+    "number": "0093",
+    "korean_name": "고우스트",
+    "english_name": "Haunter"
+  },
+  {
+    "number": "0094",
+    "korean_name": "팬텀",
+    "english_name": "Gengar"
+  },
+  {
+    "number": "0095",
+    "korean_name": "롱스톤",
+    "english_name": "Onix"
+  },
+  {
+    "number": "0096",
+    "korean_name": "슬리프",
+    "english_name": "Drowzee"
+  },
+  {
+    "number": "0097",
+    "korean_name": "슬리퍼",
+    "english_name": "Hypno"
+  },
+  {
+    "number": "0098",
+    "korean_name": "크랩",
+    "english_name": "Krabby"
+  },
+  {
+    "number": "0099",
+    "korean_name": "킹크랩",
+    "english_name": "Kingler"
+  },
+  {
+    "number": "0100",
+    "korean_name": "찌리리공",
+    "english_name": "Voltorb"
+  },
+  {
+    "number": "0101",
+    "korean_name": "붐볼",
+    "english_name": "Electrode"
+  },
+  {
+    "number": "0102",
+    "korean_name": "아라리",
+    "english_name": "Exeggcute"
+  },
+  {
+    "number": "0103",
+    "korean_name": "나시",
+    "english_name": "Exeggutor"
+  },
+  {
+    "number": "0104",
+    "korean_name": "탕구리",
+    "english_name": "Cubone"
+  },
+  {
+    "number": "0105",
+    "korean_name": "텅구리",
+    "english_name": "Marowak"
+  },
+  {
+    "number": "0106",
+    "korean_name": "시라소몬",
+    "english_name": "Hitmonlee"
+  },
+  {
+    "number": "0107",
+    "korean_name": "홍수몬",
+    "english_name": "Hitmonchan"
+  },
+  {
+    "number": "0108",
+    "korean_name": "내루미",
+    "english_name": "Lickitung"
+  },
+  {
+    "number": "0109",
+    "korean_name": "또가스",
+    "english_name": "Koffing"
+  },
+  {
+    "number": "0110",
+    "korean_name": "또도가스",
+    "english_name": "Weezing"
+  },
+  {
+    "number": "0111",
+    "korean_name": "뿔카노",
+    "english_name": "Rhyhorn"
+  },
+  {
+    "number": "0112",
+    "korean_name": "코뿌리",
+    "english_name": "Rhydon"
+  },
+  {
+    "number": "0113",
+    "korean_name": "럭키",
+    "english_name": "Chansey"
+  },
+  {
+    "number": "0114",
+    "korean_name": "덩쿠리",
+    "english_name": "Tangela"
+  },
+  {
+    "number": "0115",
+    "korean_name": "캥카",
+    "english_name": "Kangaskhan"
+  },
+  {
+    "number": "0116",
+    "korean_name": "쏘드라",
+    "english_name": "Horsea"
+  },
+  {
+    "number": "0117",
+    "korean_name": "시드라",
+    "english_name": "Seadra"
+  },
+  {
+    "number": "0118",
+    "korean_name": "콘치",
+    "english_name": "Goldeen"
+  },
+  {
+    "number": "0119",
+    "korean_name": "왕콘치",
+    "english_name": "Seaking"
+  },
+  {
+    "number": "0120",
+    "korean_name": "별가사리",
+    "english_name": "Staryu"
+  },
+  {
+    "number": "0121",
+    "korean_name": "아쿠스타",
+    "english_name": "Starmie"
+  },
+  {
+    "number": "0122",
+    "korean_name": "마임맨",
+    "english_name": "Mr Mime"
+  },
+  {
+    "number": "0123",
+    "korean_name": "스라크",
+    "english_name": "Scyther"
+  },
+  {
+    "number": "0124",
+    "korean_name": "루주라",
+    "english_name": "Jynx"
+  },
+  {
+    "number": "0125",
+    "korean_name": "에레브",
+    "english_name": "Electabuzz"
+  },
+  {
+    "number": "0126",
+    "korean_name": "마그마",
+    "english_name": "Magmar"
+  },
+  {
+    "number": "0127",
+    "korean_name": "쁘사이저",
+    "english_name": "Pinsir"
+  },
+  {
+    "number": "0128",
+    "korean_name": "켄타로스",
+    "english_name": "Tauros"
+  },
+  {
+    "number": "0129",
+    "korean_name": "잉어킹",
+    "english_name": "Magikarp"
+  },
+  {
+    "number": "0130",
+    "korean_name": "갸라도스",
+    "english_name": "Gyarados"
+  },
+  {
+    "number": "0131",
+    "korean_name": "라프라스",
+    "english_name": "Lapras"
+  },
+  {
+    "number": "0132",
+    "korean_name": "메타몽",
+    "english_name": "Ditto"
+  },
+  {
+    "number": "0133",
+    "korean_name": "이브이",
+    "english_name": "Eevee"
+  },
+  {
+    "number": "0134",
+    "korean_name": "샤미드",
+    "english_name": "Vaporeon"
+  },
+  {
+    "number": "0135",
+    "korean_name": "쥬피썬더",
+    "english_name": "Jolteon"
+  },
+  {
+    "number": "0136",
+    "korean_name": "부스터",
+    "english_name": "Flareon"
+  },
+  {
+    "number": "0137",
+    "korean_name": "폴리곤",
+    "english_name": "Porygon"
+  },
+  {
+    "number": "0138",
+    "korean_name": "암나이트",
+    "english_name": "Omanyte"
+  },
+  {
+    "number": "0139",
+    "korean_name": "암스타",
+    "english_name": "Omastar"
+  },
+  {
+    "number": "0140",
+    "korean_name": "투구",
+    "english_name": "Kabuto"
+  },
+  {
+    "number": "0141",
+    "korean_name": "투구푸스",
+    "english_name": "Kabutops"
+  },
+  {
+    "number": "0142",
+    "korean_name": "프테라",
+    "english_name": "Aerodactyl"
+  },
+  {
+    "number": "0143",
+    "korean_name": "잠만보",
+    "english_name": "Snorlax"
+  },
+  {
+    "number": "0144",
+    "korean_name": "프리져",
+    "english_name": "Articuno"
+  },
+  {
+    "number": "0145",
+    "korean_name": "썬더",
+    "english_name": "Zapdos"
+  },
+  {
+    "number": "0146",
+    "korean_name": "파이어",
+    "english_name": "Moltres"
+  },
+  {
+    "number": "0147",
+    "korean_name": "미뇽",
+    "english_name": "Dratini"
+  },
+  {
+    "number": "0148",
+    "korean_name": "신뇽",
+    "english_name": "Dragonair"
+  },
+  {
+    "number": "0149",
+    "korean_name": "망나뇽",
+    "english_name": "Dragonite"
+  },
+  {
+    "number": "0150",
+    "korean_name": "뮤츠",
+    "english_name": "Mewtwo"
+  },
+  {
+    "number": "0151",
+    "korean_name": "뮤",
+    "english_name": "Mew"
+  },
+  {
+    "number": "0152",
+    "korean_name": "치코리타",
+    "english_name": "Chikorita"
+  },
+  {
+    "number": "0153",
+    "korean_name": "베이리프",
+    "english_name": "Bayleef"
+  },
+  {
+    "number": "0154",
+    "korean_name": "메가니움",
+    "english_name": "Meganium"
+  },
+  {
+    "number": "0155",
+    "korean_name": "브케인",
+    "english_name": "Cyndaquil"
+  },
+  {
+    "number": "0156",
+    "korean_name": "마그케인",
+    "english_name": "Quilava"
+  },
+  {
+    "number": "0157",
+    "korean_name": "블레이범",
+    "english_name": "Typhlosion"
+  },
+  {
+    "number": "0158",
+    "korean_name": "리아코",
+    "english_name": "Totodile"
+  },
+  {
+    "number": "0159",
+    "korean_name": "엘리게이",
+    "english_name": "Croconaw"
+  },
+  {
+    "number": "0160",
+    "korean_name": "장크로다일",
+    "english_name": "Feraligatr"
+  },
+  {
+    "number": "0161",
+    "korean_name": "꼬리선",
+    "english_name": "Sentret"
+  },
+  {
+    "number": "0162",
+    "korean_name": "다꼬리",
+    "english_name": "Furret"
+  },
+  {
+    "number": "0163",
+    "korean_name": "부우부",
+    "english_name": "Hoothoot"
+  },
+  {
+    "number": "0164",
+    "korean_name": "야부엉",
+    "english_name": "Noctowl"
+  },
+  {
+    "number": "0165",
+    "korean_name": "레디바",
+    "english_name": "Ledyba"
+  },
+  {
+    "number": "0166",
+    "korean_name": "레디안",
+    "english_name": "Ledian"
+  },
+  {
+    "number": "0167",
+    "korean_name": "페이검",
+    "english_name": "Spinarak"
+  },
+  {
+    "number": "0168",
+    "korean_name": "아리아도스",
+    "english_name": "Ariados"
+  },
+  {
+    "number": "0169",
+    "korean_name": "크로뱃",
+    "english_name": "Crobat"
+  },
+  {
+    "number": "0170",
+    "korean_name": "초라기",
+    "english_name": "Chinchou"
+  },
+  {
+    "number": "0171",
+    "korean_name": "랜턴",
+    "english_name": "Lanturn"
+  },
+  {
+    "number": "0172",
+    "korean_name": "피츄",
+    "english_name": "Pichu"
+  },
+  {
+    "number": "0173",
+    "korean_name": "삐",
+    "english_name": "Cleffa"
+  },
+  {
+    "number": "0174",
+    "korean_name": "푸푸린",
+    "english_name": "Igglybuff"
+  },
+  {
+    "number": "0175",
+    "korean_name": "토게피",
+    "english_name": "Togepi"
+  },
+  {
+    "number": "0176",
+    "korean_name": "토게틱",
+    "english_name": "Togetic"
+  },
+  {
+    "number": "0177",
+    "korean_name": "네이티",
+    "english_name": "Natu"
+  },
+  {
+    "number": "0178",
+    "korean_name": "네이티오",
+    "english_name": "Xatu"
+  },
+  {
+    "number": "0179",
+    "korean_name": "메리프",
+    "english_name": "Mareep"
+  },
+  {
+    "number": "0180",
+    "korean_name": "보송송",
+    "english_name": "Flaaffy"
+  },
+  {
+    "number": "0181",
+    "korean_name": "전룡",
+    "english_name": "Ampharos"
+  },
+  {
+    "number": "0182",
+    "korean_name": "아르코",
+    "english_name": "Bellossom"
+  },
+  {
+    "number": "0183",
+    "korean_name": "마릴",
+    "english_name": "Marill"
+  },
+  {
+    "number": "0184",
+    "korean_name": "마릴리",
+    "english_name": "Azumarill"
+  },
+  {
+    "number": "0185",
+    "korean_name": "꼬지모",
+    "english_name": "Sudowoodo"
+  },
+  {
+    "number": "0186",
+    "korean_name": "왕구리",
+    "english_name": "Politoed"
+  },
+  {
+    "number": "0187",
+    "korean_name": "통통코",
+    "english_name": "Hoppip"
+  },
+  {
+    "number": "0188",
+    "korean_name": "두코",
+    "english_name": "Skiploom"
+  },
+  {
+    "number": "0189",
+    "korean_name": "솜솜코",
+    "english_name": "Jumpluff"
+  },
+  {
+    "number": "0190",
+    "korean_name": "에이팜",
+    "english_name": "Aipom"
+  },
+  {
+    "number": "0191",
+    "korean_name": "해너츠",
+    "english_name": "Sunkern"
+  },
+  {
+    "number": "0192",
+    "korean_name": "해루미",
+    "english_name": "Sunflora"
+  },
+  {
+    "number": "0193",
+    "korean_name": "왕자리",
+    "english_name": "Yanma"
+  },
+  {
+    "number": "0194",
+    "korean_name": "우파",
+    "english_name": "Wooper"
+  },
+  {
+    "number": "0195",
+    "korean_name": "누오",
+    "english_name": "Quagsire"
+  },
+  {
+    "number": "0196",
+    "korean_name": "에브이",
+    "english_name": "Espeon"
+  },
+  {
+    "number": "0197",
+    "korean_name": "블래키",
+    "english_name": "Umbreon"
+  },
+  {
+    "number": "0198",
+    "korean_name": "니로우",
+    "english_name": "Murkrow"
+  },
+  {
+    "number": "0199",
+    "korean_name": "야도킹",
+    "english_name": "Slowking"
+  },
+  {
+    "number": "0200",
+    "korean_name": "무우마",
+    "english_name": "Misdreavus"
+  },
+  {
+    "number": "0201",
+    "korean_name": "안농",
+    "english_name": "Unown"
+  },
+  {
+    "number": "0202",
+    "korean_name": "마자용",
+    "english_name": "Wobbuffet"
+  },
+  {
+    "number": "0203",
+    "korean_name": "키링키",
+    "english_name": "Girafarig"
+  },
+  {
+    "number": "0204",
+    "korean_name": "피콘",
+    "english_name": "Pineco"
+  },
+  {
+    "number": "0205",
+    "korean_name": "쏘콘",
+    "english_name": "Forretress"
+  },
+  {
+    "number": "0206",
+    "korean_name": "노고치",
+    "english_name": "Dunsparce"
+  },
+  {
+    "number": "0207",
+    "korean_name": "글라이거",
+    "english_name": "Gligar"
+  },
+  {
+    "number": "0208",
+    "korean_name": "강철톤",
+    "english_name": "Steelix"
+  },
+  {
+    "number": "0209",
+    "korean_name": "블루",
+    "english_name": "Snubbull"
+  },
+  {
+    "number": "0210",
+    "korean_name": "그랑블루",
+    "english_name": "Granbull"
+  },
+  {
+    "number": "0211",
+    "korean_name": "침바루",
+    "english_name": "Qwilfish"
+  },
+  {
+    "number": "0212",
+    "korean_name": "핫삼",
+    "english_name": "Scizor"
+  },
+  {
+    "number": "0213",
+    "korean_name": "단단지",
+    "english_name": "Shuckle"
+  },
+  {
+    "number": "0214",
+    "korean_name": "헤라크로스",
+    "english_name": "Heracross"
+  },
+  {
+    "number": "0215",
+    "korean_name": "포푸니",
+    "english_name": "Sneasel"
+  },
+  {
+    "number": "0216",
+    "korean_name": "깜지곰",
+    "english_name": "Teddiursa"
+  },
+  {
+    "number": "0217",
+    "korean_name": "링곰",
+    "english_name": "Ursaring"
+  },
+  {
+    "number": "0218",
+    "korean_name": "마그마그",
+    "english_name": "Slugma"
+  },
+  {
+    "number": "0219",
+    "korean_name": "마그카르고",
+    "english_name": "Magcargo"
+  },
+  {
+    "number": "0220",
+    "korean_name": "꾸꾸리",
+    "english_name": "Swinub"
+  },
+  {
+    "number": "0221",
+    "korean_name": "메꾸리",
+    "english_name": "Piloswine"
+  },
+  {
+    "number": "0222",
+    "korean_name": "코산호",
+    "english_name": "Corsola"
+  },
+  {
+    "number": "0223",
+    "korean_name": "총어",
+    "english_name": "Remoraid"
+  },
+  {
+    "number": "0224",
+    "korean_name": "대포무노",
+    "english_name": "Octillery"
+  },
+  {
+    "number": "0225",
+    "korean_name": "딜리버드",
+    "english_name": "Delibird"
+  },
+  {
+    "number": "0226",
+    "korean_name": "만타인",
+    "english_name": "Mantine"
+  },
+  {
+    "number": "0227",
+    "korean_name": "무장조",
+    "english_name": "Skarmory"
+  },
+  {
+    "number": "0228",
+    "korean_name": "델빌",
+    "english_name": "Houndour"
+  },
+  {
+    "number": "0229",
+    "korean_name": "헬가",
+    "english_name": "Houndoom"
+  },
+  {
+    "number": "0230",
+    "korean_name": "킹드라",
+    "english_name": "Kingdra"
+  },
+  {
+    "number": "0231",
+    "korean_name": "코코리",
+    "english_name": "Phanpy"
+  },
+  {
+    "number": "0232",
+    "korean_name": "코리갑",
+    "english_name": "Donphan"
+  },
+  {
+    "number": "0233",
+    "korean_name": "폴리곤2",
+    "english_name": "Porygon2"
+  },
+  {
+    "number": "0234",
+    "korean_name": "노라키",
+    "english_name": "Stantler"
+  },
+  {
+    "number": "0235",
+    "korean_name": "루브도",
+    "english_name": "Smeargle"
+  },
+  {
+    "number": "0236",
+    "korean_name": "배루키",
+    "english_name": "Tyrogue"
+  },
+  {
+    "number": "0237",
+    "korean_name": "카포에라",
+    "english_name": "Hitmontop"
+  },
+  {
+    "number": "0238",
+    "korean_name": "뽀뽀라",
+    "english_name": "Smoochum"
+  },
+  {
+    "number": "0239",
+    "korean_name": "에레키드",
+    "english_name": "Elekid"
+  },
+  {
+    "number": "0240",
+    "korean_name": "마그비",
+    "english_name": "Magby"
+  },
+  {
+    "number": "0241",
+    "korean_name": "밀탱크",
+    "english_name": "Miltank"
+  },
+  {
+    "number": "0242",
+    "korean_name": "해피너스",
+    "english_name": "Blissey"
+  },
+  {
+    "number": "0243",
+    "korean_name": "라이코",
+    "english_name": "Raikou"
+  },
+  {
+    "number": "0244",
+    "korean_name": "앤테이",
+    "english_name": "Entei"
+  },
+  {
+    "number": "0245",
+    "korean_name": "스이쿤",
+    "english_name": "Suicune"
+  },
+  {
+    "number": "0246",
+    "korean_name": "애버라스",
+    "english_name": "Larvitar"
+  },
+  {
+    "number": "0247",
+    "korean_name": "데기라스",
+    "english_name": "Pupitar"
+  },
+  {
+    "number": "0248",
+    "korean_name": "마기라스",
+    "english_name": "Tyranitar"
+  },
+  {
+    "number": "0249",
+    "korean_name": "루기아",
+    "english_name": "Lugia"
+  },
+  {
+    "number": "0250",
+    "korean_name": "칠색조",
+    "english_name": "Ho Oh"
+  },
+  {
+    "number": "0251",
+    "korean_name": "세레비",
+    "english_name": "Celebi"
+  },
+  {
+    "number": "0252",
+    "korean_name": "나무지기",
+    "english_name": "Treecko"
+  },
+  {
+    "number": "0253",
+    "korean_name": "나무돌이",
+    "english_name": "Grovyle"
+  },
+  {
+    "number": "0254",
+    "korean_name": "나무킹",
+    "english_name": "Sceptile"
+  },
+  {
+    "number": "0255",
+    "korean_name": "아차모",
+    "english_name": "Torchic"
+  },
+  {
+    "number": "0256",
+    "korean_name": "영치코",
+    "english_name": "Combusken"
+  },
+  {
+    "number": "0257",
+    "korean_name": "번치코",
+    "english_name": "Blaziken"
+  },
+  {
+    "number": "0258",
+    "korean_name": "물짱이",
+    "english_name": "Mudkip"
+  },
+  {
+    "number": "0259",
+    "korean_name": "늪짱이",
+    "english_name": "Marshtomp"
+  },
+  {
+    "number": "0260",
+    "korean_name": "대짱이",
+    "english_name": "Swampert"
+  },
+  {
+    "number": "0261",
+    "korean_name": "포챠나",
+    "english_name": "Poochyena"
+  },
+  {
+    "number": "0262",
+    "korean_name": "그라에나",
+    "english_name": "Mightyena"
+  },
+  {
+    "number": "0263",
+    "korean_name": "지그제구리",
+    "english_name": "Zigzagoon"
+  },
+  {
+    "number": "0264",
+    "korean_name": "직구리",
+    "english_name": "Linoone"
+  },
+  {
+    "number": "0265",
+    "korean_name": "개무소",
+    "english_name": "Wurmple"
+  },
+  {
+    "number": "0266",
+    "korean_name": "실쿤",
+    "english_name": "Silcoon"
+  },
+  {
+    "number": "0267",
+    "korean_name": "뷰티플라이",
+    "english_name": "Beautifly"
+  },
+  {
+    "number": "0268",
+    "korean_name": "카스쿤",
+    "english_name": "Cascoon"
+  },
+  {
+    "number": "0269",
+    "korean_name": "독케일",
+    "english_name": "Dustox"
+  },
+  {
+    "number": "0270",
+    "korean_name": "연꽃몬",
+    "english_name": "Lotad"
+  },
+  {
+    "number": "0271",
+    "korean_name": "로토스",
+    "english_name": "Lombre"
+  },
+  {
+    "number": "0272",
+    "korean_name": "로파파",
+    "english_name": "Ludicolo"
+  },
+  {
+    "number": "0273",
+    "korean_name": "도토링",
+    "english_name": "Seedot"
+  },
+  {
+    "number": "0274",
+    "korean_name": "잎새코",
+    "english_name": "Nuzleaf"
+  },
+  {
+    "number": "0275",
+    "korean_name": "다탱구",
+    "english_name": "Shiftry"
+  },
+  {
+    "number": "0276",
+    "korean_name": "테일로",
+    "english_name": "Taillow"
+  },
+  {
+    "number": "0277",
+    "korean_name": "스왈로",
+    "english_name": "Swellow"
+  },
+  {
+    "number": "0278",
+    "korean_name": "갈모매",
+    "english_name": "Wingull"
+  },
+  {
+    "number": "0279",
+    "korean_name": "패리퍼",
+    "english_name": "Pelipper"
+  },
+  {
+    "number": "0280",
+    "korean_name": "랄토스",
+    "english_name": "Ralts"
+  },
+  {
+    "number": "0281",
+    "korean_name": "킬리아",
+    "english_name": "Kirlia"
+  },
+  {
+    "number": "0282",
+    "korean_name": "가디안",
+    "english_name": "Gardevoir"
+  },
+  {
+    "number": "0283",
+    "korean_name": "비구술",
+    "english_name": "Surskit"
+  },
+  {
+    "number": "0284",
+    "korean_name": "비나방",
+    "english_name": "Masquerain"
+  },
+  {
+    "number": "0285",
+    "korean_name": "버섯꼬",
+    "english_name": "Shroomish"
+  },
+  {
+    "number": "0286",
+    "korean_name": "버섯모",
+    "english_name": "Breloom"
+  },
+  {
+    "number": "0287",
+    "korean_name": "게을로",
+    "english_name": "Slakoth"
+  },
+  {
+    "number": "0288",
+    "korean_name": "발바로",
+    "english_name": "Vigoroth"
+  },
+  {
+    "number": "0289",
+    "korean_name": "게을킹",
+    "english_name": "Slaking"
+  },
+  {
+    "number": "0290",
+    "korean_name": "토중몬",
+    "english_name": "Nincada"
+  },
+  {
+    "number": "0291",
+    "korean_name": "아이스크",
+    "english_name": "Ninjask"
+  },
+  {
+    "number": "0292",
+    "korean_name": "껍질몬",
+    "english_name": "Shedinja"
+  },
+  {
+    "number": "0293",
+    "korean_name": "소곤룡",
+    "english_name": "Whismur"
+  },
+  {
+    "number": "0294",
+    "korean_name": "노공룡",
+    "english_name": "Loudred"
+  },
+  {
+    "number": "0295",
+    "korean_name": "폭음룡",
+    "english_name": "Exploud"
+  },
+  {
+    "number": "0296",
+    "korean_name": "마크탕",
+    "english_name": "Makuhita"
+  },
+  {
+    "number": "0297",
+    "korean_name": "하리뭉",
+    "english_name": "Hariyama"
+  },
+  {
+    "number": "0298",
+    "korean_name": "루리리",
+    "english_name": "Azurill"
+  },
+  {
+    "number": "0299",
+    "korean_name": "코코파스",
+    "english_name": "Nosepass"
+  },
+  {
+    "number": "0300",
+    "korean_name": "에나비",
+    "english_name": "Skitty"
+  },
+  {
+    "number": "0301",
+    "korean_name": "델케티",
+    "english_name": "Delcatty"
+  },
+  {
+    "number": "0302",
+    "korean_name": "깜까미",
+    "english_name": "Sableye"
+  },
+  {
+    "number": "0303",
+    "korean_name": "입치트",
+    "english_name": "Mawile"
+  },
+  {
+    "number": "0304",
+    "korean_name": "가보리",
+    "english_name": "Aron"
+  },
+  {
+    "number": "0305",
+    "korean_name": "갱도라",
+    "english_name": "Lairon"
+  },
+  {
+    "number": "0306",
+    "korean_name": "보스로라",
+    "english_name": "Aggron"
+  },
+  {
+    "number": "0307",
+    "korean_name": "요가랑",
+    "english_name": "Meditite"
+  },
+  {
+    "number": "0308",
+    "korean_name": "요가램",
+    "english_name": "Medicham"
+  },
+  {
+    "number": "0309",
+    "korean_name": "썬더라이",
+    "english_name": "Electrike"
+  },
+  {
+    "number": "0310",
+    "korean_name": "썬더볼트",
+    "english_name": "Manectric"
+  },
+  {
+    "number": "0311",
+    "korean_name": "플러시",
+    "english_name": "Plusle"
+  },
+  {
+    "number": "0312",
+    "korean_name": "마이농",
+    "english_name": "Minun"
+  },
+  {
+    "number": "0313",
+    "korean_name": "볼비트",
+    "english_name": "Volbeat"
+  },
+  {
+    "number": "0314",
+    "korean_name": "네오비트",
+    "english_name": "Illumise"
+  },
+  {
+    "number": "0315",
+    "korean_name": "로젤리아",
+    "english_name": "Roselia"
+  },
+  {
+    "number": "0316",
+    "korean_name": "꼴깍몬",
+    "english_name": "Gulpin"
+  },
+  {
+    "number": "0317",
+    "korean_name": "꿀꺽몬",
+    "english_name": "Swalot"
+  },
+  {
+    "number": "0318",
+    "korean_name": "샤프니아",
+    "english_name": "Carvanha"
+  },
+  {
+    "number": "0319",
+    "korean_name": "샤크니아",
+    "english_name": "Sharpedo"
+  },
+  {
+    "number": "0320",
+    "korean_name": "고래왕자",
+    "english_name": "Wailmer"
+  },
+  {
+    "number": "0321",
+    "korean_name": "고래왕",
+    "english_name": "Wailord"
+  },
+  {
+    "number": "0322",
+    "korean_name": "둔타",
+    "english_name": "Numel"
+  },
+  {
+    "number": "0323",
+    "korean_name": "폭타",
+    "english_name": "Camerupt"
+  },
+  {
+    "number": "0324",
+    "korean_name": "코터스",
+    "english_name": "Torkoal"
+  },
+  {
+    "number": "0325",
+    "korean_name": "피그점프",
+    "english_name": "Spoink"
+  },
+  {
+    "number": "0326",
+    "korean_name": "피그킹",
+    "english_name": "Grumpig"
+  },
+  {
+    "number": "0327",
+    "korean_name": "얼루기",
+    "english_name": "Spinda"
+  },
+  {
+    "number": "0328",
+    "korean_name": "톱치",
+    "english_name": "Trapinch"
+  },
+  {
+    "number": "0329",
+    "korean_name": "비브라바",
+    "english_name": "Vibrava"
+  },
+  {
+    "number": "0330",
+    "korean_name": "플라이곤",
+    "english_name": "Flygon"
+  },
+  {
+    "number": "0331",
+    "korean_name": "선인왕",
+    "english_name": "Cacnea"
+  },
+  {
+    "number": "0332",
+    "korean_name": "밤선인",
+    "english_name": "Cacturne"
+  },
+  {
+    "number": "0333",
+    "korean_name": "파비코",
+    "english_name": "Swablu"
+  },
+  {
+    "number": "0334",
+    "korean_name": "파비코리",
+    "english_name": "Altaria"
+  },
+  {
+    "number": "0335",
+    "korean_name": "쟝고",
+    "english_name": "Zangoose"
+  },
+  {
+    "number": "0336",
+    "korean_name": "세비퍼",
+    "english_name": "Seviper"
+  },
+  {
+    "number": "0337",
+    "korean_name": "루나톤",
+    "english_name": "Lunatone"
+  },
+  {
+    "number": "0338",
+    "korean_name": "솔록",
+    "english_name": "Solrock"
+  },
+  {
+    "number": "0339",
+    "korean_name": "미꾸리",
+    "english_name": "Barboach"
+  },
+  {
+    "number": "0340",
+    "korean_name": "메깅",
+    "english_name": "Whiscash"
+  },
+  {
+    "number": "0341",
+    "korean_name": "가재군",
+    "english_name": "Corphish"
+  },
+  {
+    "number": "0342",
+    "korean_name": "가재장군",
+    "english_name": "Crawdaunt"
+  },
+  {
+    "number": "0343",
+    "korean_name": "오뚝군",
+    "english_name": "Baltoy"
+  },
+  {
+    "number": "0344",
+    "korean_name": "점토도리",
+    "english_name": "Claydol"
+  },
+  {
+    "number": "0345",
+    "korean_name": "릴링",
+    "english_name": "Lileep"
+  },
+  {
+    "number": "0346",
+    "korean_name": "릴리요",
+    "english_name": "Cradily"
+  },
+  {
+    "number": "0347",
+    "korean_name": "아노딥스",
+    "english_name": "Anorith"
+  },
+  {
+    "number": "0348",
+    "korean_name": "아말도",
+    "english_name": "Armaldo"
+  },
+  {
+    "number": "0349",
+    "korean_name": "빈티나",
+    "english_name": "Feebas"
+  },
+  {
+    "number": "0350",
+    "korean_name": "밀로틱",
+    "english_name": "Milotic"
+  },
+  {
+    "number": "0351",
+    "korean_name": "캐스퐁",
+    "english_name": "Castform"
+  },
+  {
+    "number": "0352",
+    "korean_name": "켈리몬",
+    "english_name": "Kecleon"
+  },
+  {
+    "number": "0353",
+    "korean_name": "어둠대신",
+    "english_name": "Shuppet"
+  },
+  {
+    "number": "0354",
+    "korean_name": "다크펫",
+    "english_name": "Banette"
+  },
+  {
+    "number": "0355",
+    "korean_name": "해골몽",
+    "english_name": "Duskull"
+  },
+  {
+    "number": "0356",
+    "korean_name": "미라몽",
+    "english_name": "Dusclops"
+  },
+  {
+    "number": "0357",
+    "korean_name": "트로피우스",
+    "english_name": "Tropius"
+  },
+  {
+    "number": "0358",
+    "korean_name": "치렁",
+    "english_name": "Chimecho"
+  },
+  {
+    "number": "0359",
+    "korean_name": "앱솔",
+    "english_name": "Absol"
+  },
+  {
+    "number": "0360",
+    "korean_name": "마자",
+    "english_name": "Wynaut"
+  },
+  {
+    "number": "0361",
+    "korean_name": "눈꼬마",
+    "english_name": "Snorunt"
+  },
+  {
+    "number": "0362",
+    "korean_name": "얼음귀신",
+    "english_name": "Glalie"
+  },
+  {
+    "number": "0363",
+    "korean_name": "대굴레오",
+    "english_name": "Spheal"
+  },
+  {
+    "number": "0364",
+    "korean_name": "씨레오",
+    "english_name": "Sealeo"
+  },
+  {
+    "number": "0365",
+    "korean_name": "씨카이저",
+    "english_name": "Walrein"
+  },
+  {
+    "number": "0366",
+    "korean_name": "진주몽",
+    "english_name": "Clamperl"
+  },
+  {
+    "number": "0367",
+    "korean_name": "헌테일",
+    "english_name": "Huntail"
+  },
+  {
+    "number": "0368",
+    "korean_name": "분홍장이",
+    "english_name": "Gorebyss"
+  },
+  {
+    "number": "0369",
+    "korean_name": "시라칸",
+    "english_name": "Relicanth"
+  },
+  {
+    "number": "0370",
+    "korean_name": "사랑동이",
+    "english_name": "Luvdisc"
+  },
+  {
+    "number": "0371",
+    "korean_name": "아공이",
+    "english_name": "Bagon"
+  },
+  {
+    "number": "0372",
+    "korean_name": "쉘곤",
+    "english_name": "Shelgon"
+  },
+  {
+    "number": "0373",
+    "korean_name": "보만다",
+    "english_name": "Salamence"
+  },
+  {
+    "number": "0374",
+    "korean_name": "메탕",
+    "english_name": "Beldum"
+  },
+  {
+    "number": "0375",
+    "korean_name": "메탕구",
+    "english_name": "Metang"
+  },
+  {
+    "number": "0376",
+    "korean_name": "메타그로스",
+    "english_name": "Metagross"
+  },
+  {
+    "number": "0377",
+    "korean_name": "레지락",
+    "english_name": "Regirock"
+  },
+  {
+    "number": "0378",
+    "korean_name": "레지아이스",
+    "english_name": "Regice"
+  },
+  {
+    "number": "0379",
+    "korean_name": "레지스틸",
+    "english_name": "Registeel"
+  },
+  {
+    "number": "0380",
+    "korean_name": "라티아스",
+    "english_name": "Latias"
+  },
+  {
+    "number": "0381",
+    "korean_name": "라티오스",
+    "english_name": "Latios"
+  },
+  {
+    "number": "0382",
+    "korean_name": "가이오가",
+    "english_name": "Kyogre"
+  },
+  {
+    "number": "0383",
+    "korean_name": "그란돈",
+    "english_name": "Groudon"
+  },
+  {
+    "number": "0384",
+    "korean_name": "레쿠쟈",
+    "english_name": "Rayquaza"
+  },
+  {
+    "number": "0385",
+    "korean_name": "지라치",
+    "english_name": "Jirachi"
+  },
+  {
+    "number": "0386",
+    "korean_name": "테오키스",
+    "english_name": "Deoxys Normal"
+  },
+  {
+    "number": "0387",
+    "korean_name": "모부기",
+    "english_name": "Turtwig"
+  },
+  {
+    "number": "0388",
+    "korean_name": "수풀부기",
+    "english_name": "Grotle"
+  },
+  {
+    "number": "0389",
+    "korean_name": "토대부기",
+    "english_name": "Torterra"
+  },
+  {
+    "number": "0390",
+    "korean_name": "불꽃숭이",
+    "english_name": "Chimchar"
+  },
+  {
+    "number": "0391",
+    "korean_name": "파이숭이",
+    "english_name": "Monferno"
+  },
+  {
+    "number": "0392",
+    "korean_name": "초염몽",
+    "english_name": "Infernape"
+  },
+  {
+    "number": "0393",
+    "korean_name": "팽도리",
+    "english_name": "Piplup"
+  },
+  {
+    "number": "0394",
+    "korean_name": "팽태자",
+    "english_name": "Prinplup"
+  },
+  {
+    "number": "0395",
+    "korean_name": "엠페르트",
+    "english_name": "Empoleon"
+  },
+  {
+    "number": "0396",
+    "korean_name": "찌르꼬",
+    "english_name": "Starly"
+  },
+  {
+    "number": "0397",
+    "korean_name": "찌르버드",
+    "english_name": "Staravia"
+  },
+  {
+    "number": "0398",
+    "korean_name": "찌르호크",
+    "english_name": "Staraptor"
+  },
+  {
+    "number": "0399",
+    "korean_name": "비버니",
+    "english_name": "Bidoof"
+  },
+  {
+    "number": "0400",
+    "korean_name": "비버통",
+    "english_name": "Bibarel"
+  },
+  {
+    "number": "0401",
+    "korean_name": "귀뚤뚜기",
+    "english_name": "Kricketot"
+  },
+  {
+    "number": "0402",
+    "korean_name": "귀뚤톡크",
+    "english_name": "Kricketune"
+  },
+  {
+    "number": "0403",
+    "korean_name": "꼬링크",
+    "english_name": "Shinx"
+  },
+  {
+    "number": "0404",
+    "korean_name": "럭시오",
+    "english_name": "Luxio"
+  },
+  {
+    "number": "0405",
+    "korean_name": "렌트라",
+    "english_name": "Luxray"
+  },
+  {
+    "number": "0406",
+    "korean_name": "꼬몽울",
+    "english_name": "Budew"
+  },
+  {
+    "number": "0407",
+    "korean_name": "로즈레이드",
+    "english_name": "Roserade"
+  },
+  {
+    "number": "0408",
+    "korean_name": "두개도스",
+    "english_name": "Cranidos"
+  },
+  {
+    "number": "0409",
+    "korean_name": "램펄드",
+    "english_name": "Rampardos"
+  },
+  {
+    "number": "0410",
+    "korean_name": "방패톱스",
+    "english_name": "Shieldon"
+  },
+  {
+    "number": "0411",
+    "korean_name": "바리톱스",
+    "english_name": "Bastiodon"
+  },
+  {
+    "number": "0412",
+    "korean_name": "도롱충이",
+    "english_name": "Burmy"
+  },
+  {
+    "number": "0413",
+    "korean_name": "도롱마담",
+    "english_name": "Wormadam Plant"
+  },
+  {
+    "number": "0414",
+    "korean_name": "나메일",
+    "english_name": "Mothim"
+  },
+  {
+    "number": "0415",
+    "korean_name": "세꿀버리",
+    "english_name": "Combee"
+  },
+  {
+    "number": "0416",
+    "korean_name": "비퀸",
+    "english_name": "Vespiquen"
+  },
+  {
+    "number": "0417",
+    "korean_name": "파치리스",
+    "english_name": "Pachirisu"
+  },
+  {
+    "number": "0418",
+    "korean_name": "브이젤",
+    "english_name": "Buizel"
+  },
+  {
+    "number": "0419",
+    "korean_name": "플로젤",
+    "english_name": "Floatzel"
+  },
+  {
+    "number": "0420",
+    "korean_name": "체리버",
+    "english_name": "Cherubi"
+  },
+  {
+    "number": "0421",
+    "korean_name": "체리꼬",
+    "english_name": "Cherrim"
+  },
+  {
+    "number": "0422",
+    "korean_name": "깝질무",
+    "english_name": "Shellos"
+  },
+  {
+    "number": "0423",
+    "korean_name": "트리토돈",
+    "english_name": "Gastrodon"
+  },
+  {
+    "number": "0424",
+    "korean_name": "겟핸보숭",
+    "english_name": "Ambipom"
+  },
+  {
+    "number": "0425",
+    "korean_name": "흔들풍손",
+    "english_name": "Drifloon"
+  },
+  {
+    "number": "0426",
+    "korean_name": "둥실라이드",
+    "english_name": "Drifblim"
+  },
+  {
+    "number": "0427",
+    "korean_name": "이어롤",
+    "english_name": "Buneary"
+  },
+  {
+    "number": "0428",
+    "korean_name": "이어롭",
+    "english_name": "Lopunny"
+  },
+  {
+    "number": "0429",
+    "korean_name": "무우마직",
+    "english_name": "Mismagius"
+  },
+  {
+    "number": "0430",
+    "korean_name": "돈크로우",
+    "english_name": "Honchkrow"
+  },
+  {
+    "number": "0431",
+    "korean_name": "나옹마",
+    "english_name": "Glameow"
+  },
+  {
+    "number": "0432",
+    "korean_name": "몬냥이",
+    "english_name": "Purugly"
+  },
+  {
+    "number": "0433",
+    "korean_name": "랑딸랑",
+    "english_name": "Chingling"
+  },
+  {
+    "number": "0434",
+    "korean_name": "스컹뿡",
+    "english_name": "Stunky"
+  },
+  {
+    "number": "0435",
+    "korean_name": "스컹탱크",
+    "english_name": "Skuntank"
+  },
+  {
+    "number": "0436",
+    "korean_name": "동미러",
+    "english_name": "Bronzor"
+  },
+  {
+    "number": "0437",
+    "korean_name": "동탁군",
+    "english_name": "Bronzong"
+  },
+  {
+    "number": "0438",
+    "korean_name": "꼬지지",
+    "english_name": "Bonsly"
+  },
+  {
+    "number": "0439",
+    "korean_name": "흉내내",
+    "english_name": "Mime Jr"
+  },
+  {
+    "number": "0440",
+    "korean_name": "핑복",
+    "english_name": "Happiny"
+  },
+  {
+    "number": "0441",
+    "korean_name": "페라페",
+    "english_name": "Chatot"
+  },
+  {
+    "number": "0442",
+    "korean_name": "화강돌",
+    "english_name": "Spiritomb"
+  },
+  {
+    "number": "0443",
+    "korean_name": "딥상어동",
+    "english_name": "Gible"
+  },
+  {
+    "number": "0444",
+    "korean_name": "한바이트",
+    "english_name": "Gabite"
+  },
+  {
+    "number": "0445",
+    "korean_name": "한카리아스",
+    "english_name": "Garchomp"
+  },
+  {
+    "number": "0446",
+    "korean_name": "먹고자",
+    "english_name": "Munchlax"
+  },
+  {
+    "number": "0447",
+    "korean_name": "리오르",
+    "english_name": "Riolu"
+  },
+  {
+    "number": "0448",
+    "korean_name": "루카리오",
+    "english_name": "Lucario"
+  },
+  {
+    "number": "0449",
+    "korean_name": "히포포타스",
+    "english_name": "Hippopotas"
+  },
+  {
+    "number": "0450",
+    "korean_name": "하마돈",
+    "english_name": "Hippowdon"
+  },
+  {
+    "number": "0451",
+    "korean_name": "스콜피",
+    "english_name": "Skorupi"
+  },
+  {
+    "number": "0452",
+    "korean_name": "드래피온",
+    "english_name": "Drapion"
+  },
+  {
+    "number": "0453",
+    "korean_name": "삐딱구리",
+    "english_name": "Croagunk"
+  },
+  {
+    "number": "0454",
+    "korean_name": "독개굴",
+    "english_name": "Toxicroak"
+  },
+  {
+    "number": "0455",
+    "korean_name": "무스틈니",
+    "english_name": "Carnivine"
+  },
+  {
+    "number": "0456",
+    "korean_name": "형광어",
+    "english_name": "Finneon"
+  },
+  {
+    "number": "0457",
+    "korean_name": "네오라이트",
+    "english_name": "Lumineon"
+  },
+  {
+    "number": "0458",
+    "korean_name": "타만타",
+    "english_name": "Mantyke"
+  },
+  {
+    "number": "0459",
+    "korean_name": "눈쓰개",
+    "english_name": "Snover"
+  },
+  {
+    "number": "0460",
+    "korean_name": "눈설왕",
+    "english_name": "Abomasnow"
+  },
+  {
+    "number": "0461",
+    "korean_name": "포푸니라",
+    "english_name": "Weavile"
+  },
+  {
+    "number": "0462",
+    "korean_name": "자포코일",
+    "english_name": "Magnezone"
+  },
+  {
+    "number": "0463",
+    "korean_name": "내룸벨트",
+    "english_name": "Lickilicky"
+  },
+  {
+    "number": "0464",
+    "korean_name": "거대코뿌리",
+    "english_name": "Rhyperior"
+  },
+  {
+    "number": "0465",
+    "korean_name": "덩쿠림보",
+    "english_name": "Tangrowth"
+  },
+  {
+    "number": "0466",
+    "korean_name": "에레키블",
+    "english_name": "Electivire"
+  },
+  {
+    "number": "0467",
+    "korean_name": "마그마번",
+    "english_name": "Magmortar"
+  },
+  {
+    "number": "0468",
+    "korean_name": "토게키스",
+    "english_name": "Togekiss"
+  },
+  {
+    "number": "0469",
+    "korean_name": "메가자리",
+    "english_name": "Yanmega"
+  },
+  {
+    "number": "0470",
+    "korean_name": "리피아",
+    "english_name": "Leafeon"
+  },
+  {
+    "number": "0471",
+    "korean_name": "글레이시아",
+    "english_name": "Glaceon"
+  },
+  {
+    "number": "0472",
+    "korean_name": "글라이온",
+    "english_name": "Gliscor"
+  },
+  {
+    "number": "0473",
+    "korean_name": "맘모꾸리",
+    "english_name": "Mamoswine"
+  },
+  {
+    "number": "0474",
+    "korean_name": "폴리곤Z",
+    "english_name": "Porygon Z"
+  },
+  {
+    "number": "0475",
+    "korean_name": "엘레이드",
+    "english_name": "Gallade"
+  },
+  {
+    "number": "0476",
+    "korean_name": "대코파스",
+    "english_name": "Probopass"
+  },
+  {
+    "number": "0477",
+    "korean_name": "야느와르몽",
+    "english_name": "Dusknoir"
+  },
+  {
+    "number": "0478",
+    "korean_name": "눈여아",
+    "english_name": "Froslass"
+  },
+  {
+    "number": "0479",
+    "korean_name": "로토무",
+    "english_name": "Rotom"
+  },
+  {
+    "number": "0480",
+    "korean_name": "유크시",
+    "english_name": "Uxie"
+  },
+  {
+    "number": "0481",
+    "korean_name": "엠라이트",
+    "english_name": "Mesprit"
+  },
+  {
+    "number": "0482",
+    "korean_name": "아그놈",
+    "english_name": "Azelf"
+  },
+  {
+    "number": "0483",
+    "korean_name": "디아루가",
+    "english_name": "Dialga"
+  },
+  {
+    "number": "0484",
+    "korean_name": "펄기아",
+    "english_name": "Palkia"
+  },
+  {
+    "number": "0485",
+    "korean_name": "히드런",
+    "english_name": "Heatran"
+  },
+  {
+    "number": "0486",
+    "korean_name": "레지기가스",
+    "english_name": "Regigigas"
+  },
+  {
+    "number": "0487",
+    "korean_name": "기라티나",
+    "english_name": "Giratina Altered"
+  },
+  {
+    "number": "0488",
+    "korean_name": "크레세리아",
+    "english_name": "Cresselia"
+  },
+  {
+    "number": "0489",
+    "korean_name": "피오네",
+    "english_name": "Phione"
+  },
+  {
+    "number": "0490",
+    "korean_name": "마나피",
+    "english_name": "Manaphy"
+  },
+  {
+    "number": "0491",
+    "korean_name": "다크라이",
+    "english_name": "Darkrai"
+  },
+  {
+    "number": "0492",
+    "korean_name": "쉐이미",
+    "english_name": "Shaymin Land"
+  },
+  {
+    "number": "0493",
+    "korean_name": "아르세우스",
+    "english_name": "Arceus"
+  },
+  {
+    "number": "0494",
+    "korean_name": "비크티니",
+    "english_name": "Victini"
+  },
+  {
+    "number": "0495",
+    "korean_name": "주리비얀",
+    "english_name": "Snivy"
+  },
+  {
+    "number": "0496",
+    "korean_name": "샤비",
+    "english_name": "Servine"
+  },
+  {
+    "number": "0497",
+    "korean_name": "샤로다",
+    "english_name": "Serperior"
+  },
+  {
+    "number": "0498",
+    "korean_name": "뚜꾸리",
+    "english_name": "Tepig"
+  },
+  {
+    "number": "0499",
+    "korean_name": "차오꿀",
+    "english_name": "Pignite"
+  },
+  {
+    "number": "0500",
+    "korean_name": "염무왕",
+    "english_name": "Emboar"
+  },
+  {
+    "number": "0501",
+    "korean_name": "수댕이",
+    "english_name": "Oshawott"
+  },
+  {
+    "number": "0502",
+    "korean_name": "쌍검자비",
+    "english_name": "Dewott"
+  },
+  {
+    "number": "0503",
+    "korean_name": "대검귀",
+    "english_name": "Samurott"
+  },
+  {
+    "number": "0504",
+    "korean_name": "보르쥐",
+    "english_name": "Patrat"
+  },
+  {
+    "number": "0505",
+    "korean_name": "보르그",
+    "english_name": "Watchog"
+  },
+  {
+    "number": "0506",
+    "korean_name": "요테리",
+    "english_name": "Lillipup"
+  },
+  {
+    "number": "0507",
+    "korean_name": "하데리어",
+    "english_name": "Herdier"
+  },
+  {
+    "number": "0508",
+    "korean_name": "바랜드",
+    "english_name": "Stoutland"
+  },
+  {
+    "number": "0509",
+    "korean_name": "쌔비냥",
+    "english_name": "Purrloin"
+  },
+  {
+    "number": "0510",
+    "korean_name": "레파르다스",
+    "english_name": "Liepard"
+  },
+  {
+    "number": "0511",
+    "korean_name": "야나프",
+    "english_name": "Pansage"
+  },
+  {
+    "number": "0512",
+    "korean_name": "야나키",
+    "english_name": "Simisage"
+  },
+  {
+    "number": "0513",
+    "korean_name": "바오프",
+    "english_name": "Pansear"
+  },
+  {
+    "number": "0514",
+    "korean_name": "바오키",
+    "english_name": "Simisear"
+  },
+  {
+    "number": "0515",
+    "korean_name": "앗차프",
+    "english_name": "Panpour"
+  },
+  {
+    "number": "0516",
+    "korean_name": "앗차키",
+    "english_name": "Simipour"
+  },
+  {
+    "number": "0517",
+    "korean_name": "몽나",
+    "english_name": "Munna"
+  },
+  {
+    "number": "0518",
+    "korean_name": "몽얌나",
+    "english_name": "Musharna"
+  },
+  {
+    "number": "0519",
+    "korean_name": "콩둘기",
+    "english_name": "Pidove"
+  },
+  {
+    "number": "0520",
+    "korean_name": "유토브",
+    "english_name": "Tranquill"
+  },
+  {
+    "number": "0521",
+    "korean_name": "켄호로우",
+    "english_name": "Unfezant"
+  },
+  {
+    "number": "0522",
+    "korean_name": "줄뮤마",
+    "english_name": "Blitzle"
+  },
+  {
+    "number": "0523",
+    "korean_name": "제브라이카",
+    "english_name": "Zebstrika"
+  },
+  {
+    "number": "0524",
+    "korean_name": "단굴",
+    "english_name": "Roggenrola"
+  },
+  {
+    "number": "0525",
+    "korean_name": "암트르",
+    "english_name": "Boldore"
+  },
+  {
+    "number": "0526",
+    "korean_name": "기가이어스",
+    "english_name": "Gigalith"
+  },
+  {
+    "number": "0527",
+    "korean_name": "또르박쥐",
+    "english_name": "Woobat"
+  },
+  {
+    "number": "0528",
+    "korean_name": "맘박쥐",
+    "english_name": "Swoobat"
+  },
+  {
+    "number": "0529",
+    "korean_name": "두더류",
+    "english_name": "Drilbur"
+  },
+  {
+    "number": "0530",
+    "korean_name": "몰드류",
+    "english_name": "Excadrill"
+  },
+  {
+    "number": "0531",
+    "korean_name": "다부니",
+    "english_name": "Audino"
+  },
+  {
+    "number": "0532",
+    "korean_name": "으랏차",
+    "english_name": "Timburr"
+  },
+  {
+    "number": "0533",
+    "korean_name": "토쇠골",
+    "english_name": "Gurdurr"
+  },
+  {
+    "number": "0534",
+    "korean_name": "노보청",
+    "english_name": "Conkeldurr"
+  },
+  {
+    "number": "0535",
+    "korean_name": "동챙이",
+    "english_name": "Tympole"
+  },
+  {
+    "number": "0536",
+    "korean_name": "두까비",
+    "english_name": "Palpitoad"
+  },
+  {
+    "number": "0537",
+    "korean_name": "두빅굴",
+    "english_name": "Seismitoad"
+  },
+  {
+    "number": "0538",
+    "korean_name": "던지미",
+    "english_name": "Throh"
+  },
+  {
+    "number": "0539",
+    "korean_name": "타격귀",
+    "english_name": "Sawk"
+  },
+  {
+    "number": "0540",
+    "korean_name": "두르보",
+    "english_name": "Sewaddle"
+  },
+  {
+    "number": "0541",
+    "korean_name": "두르쿤",
+    "english_name": "Swadloon"
+  },
+  {
+    "number": "0542",
+    "korean_name": "모아머",
+    "english_name": "Leavanny"
+  },
+  {
+    "number": "0543",
+    "korean_name": "마디네",
+    "english_name": "Venipede"
+  },
+  {
+    "number": "0544",
+    "korean_name": "휠구",
+    "english_name": "Whirlipede"
+  },
+  {
+    "number": "0545",
+    "korean_name": "펜드라",
+    "english_name": "Scolipede"
+  },
+  {
+    "number": "0546",
+    "korean_name": "소미안",
+    "english_name": "Cottonee"
+  },
+  {
+    "number": "0547",
+    "korean_name": "엘풍",
+    "english_name": "Whimsicott"
+  },
+  {
+    "number": "0548",
+    "korean_name": "치릴리",
+    "english_name": "Petilil"
+  },
+  {
+    "number": "0549",
+    "korean_name": "드레디어",
+    "english_name": "Lilligant"
+  },
+  {
+    "number": "0550",
+    "korean_name": "배쓰나이",
+    "english_name": "Basculin Red Striped"
+  },
+  {
+    "number": "0551",
+    "korean_name": "깜눈크",
+    "english_name": "Sandile"
+  },
+  {
+    "number": "0552",
+    "korean_name": "악비르",
+    "english_name": "Krokorok"
+  },
+  {
+    "number": "0553",
+    "korean_name": "악비아르",
+    "english_name": "Krookodile"
+  },
+  {
+    "number": "0554",
+    "korean_name": "달막화",
+    "english_name": "Darumaka"
+  },
+  {
+    "number": "0555",
+    "korean_name": "불비달마",
+    "english_name": "Darmanitan Standard"
+  },
+  {
+    "number": "0556",
+    "korean_name": "마라카치",
+    "english_name": "Maractus"
+  },
+  {
+    "number": "0557",
+    "korean_name": "돌살이",
+    "english_name": "Dwebble"
+  },
+  {
+    "number": "0558",
+    "korean_name": "암팰리스",
+    "english_name": "Crustle"
+  },
+  {
+    "number": "0559",
+    "korean_name": "곤율랭",
+    "english_name": "Scraggy"
+  },
+  {
+    "number": "0560",
+    "korean_name": "곤율거니",
+    "english_name": "Scrafty"
+  },
+  {
+    "number": "0561",
+    "korean_name": "심보러",
+    "english_name": "Sigilyph"
+  },
+  {
+    "number": "0562",
+    "korean_name": "데스마스",
+    "english_name": "Yamask"
+  },
+  {
+    "number": "0563",
+    "korean_name": "데스니칸",
+    "english_name": "Cofagrigus"
+  },
+  {
+    "number": "0564",
+    "korean_name": "프로토가",
+    "english_name": "Tirtouga"
+  },
+  {
+    "number": "0565",
+    "korean_name": "늑골라",
+    "english_name": "Carracosta"
+  },
+  {
+    "number": "0566",
+    "korean_name": "아켄",
+    "english_name": "Archen"
+  },
+  {
+    "number": "0567",
+    "korean_name": "아케오스",
+    "english_name": "Archeops"
+  },
+  {
+    "number": "0568",
+    "korean_name": "깨봉이",
+    "english_name": "Trubbish"
+  },
+  {
+    "number": "0569",
+    "korean_name": "더스트나",
+    "english_name": "Garbodor"
+  },
+  {
+    "number": "0570",
+    "korean_name": "조로아",
+    "english_name": "Zorua"
+  },
+  {
+    "number": "0571",
+    "korean_name": "조로아크",
+    "english_name": "Zoroark"
+  },
+  {
+    "number": "0572",
+    "korean_name": "치라미",
+    "english_name": "Minccino"
+  },
+  {
+    "number": "0573",
+    "korean_name": "치라치노",
+    "english_name": "Cinccino"
+  },
+  {
+    "number": "0574",
+    "korean_name": "고디탱",
+    "english_name": "Gothita"
+  },
+  {
+    "number": "0575",
+    "korean_name": "고디보미",
+    "english_name": "Gothorita"
+  },
+  {
+    "number": "0576",
+    "korean_name": "고디모아젤",
+    "english_name": "Gothitelle"
+  },
+  {
+    "number": "0577",
+    "korean_name": "유니란",
+    "english_name": "Solosis"
+  },
+  {
+    "number": "0578",
+    "korean_name": "듀란",
+    "english_name": "Duosion"
+  },
+  {
+    "number": "0579",
+    "korean_name": "란쿨루스",
+    "english_name": "Reuniclus"
+  },
+  {
+    "number": "0580",
+    "korean_name": "꼬지보리",
+    "english_name": "Ducklett"
+  },
+  {
+    "number": "0581",
+    "korean_name": "스완나",
+    "english_name": "Swanna"
+  },
+  {
+    "number": "0582",
+    "korean_name": "바닐프티",
+    "english_name": "Vanillite"
+  },
+  {
+    "number": "0583",
+    "korean_name": "바닐리치",
+    "english_name": "Vanillish"
+  },
+  {
+    "number": "0584",
+    "korean_name": "배바닐라",
+    "english_name": "Vanilluxe"
+  },
+  {
+    "number": "0585",
+    "korean_name": "사철록",
+    "english_name": "Deerling"
+  },
+  {
+    "number": "0586",
+    "korean_name": "바라철록",
+    "english_name": "Sawsbuck"
+  },
+  {
+    "number": "0587",
+    "korean_name": "에몽가",
+    "english_name": "Emolga"
+  },
+  {
+    "number": "0588",
+    "korean_name": "딱정곤",
+    "english_name": "Karrablast"
+  },
+  {
+    "number": "0589",
+    "korean_name": "슈바르고",
+    "english_name": "Escavalier"
+  },
+  {
+    "number": "0590",
+    "korean_name": "깜놀버슬",
+    "english_name": "Foongus"
+  },
+  {
+    "number": "0591",
+    "korean_name": "뽀록나",
+    "english_name": "Amoonguss"
+  },
+  {
+    "number": "0592",
+    "korean_name": "탱그릴",
+    "english_name": "Frillish"
+  },
+  {
+    "number": "0593",
+    "korean_name": "탱탱겔",
+    "english_name": "Jellicent"
+  },
+  {
+    "number": "0594",
+    "korean_name": "맘복치",
+    "english_name": "Alomomola"
+  },
+  {
+    "number": "0595",
+    "korean_name": "파쪼옥",
+    "english_name": "Joltik"
+  },
+  {
+    "number": "0596",
+    "korean_name": "전툴라",
+    "english_name": "Galvantula"
+  },
+  {
+    "number": "0597",
+    "korean_name": "철시드",
+    "english_name": "Ferroseed"
+  },
+  {
+    "number": "0598",
+    "korean_name": "너트령",
+    "english_name": "Ferrothorn"
+  },
+  {
+    "number": "0599",
+    "korean_name": "기어르",
+    "english_name": "Klink"
+  },
+  {
+    "number": "0600",
+    "korean_name": "기기어르",
+    "english_name": "Klang"
+  },
+  {
+    "number": "0601",
+    "korean_name": "기기기어르",
+    "english_name": "Klinklang"
+  },
+  {
+    "number": "0602",
+    "korean_name": "저리어",
+    "english_name": "Tynamo"
+  },
+  {
+    "number": "0603",
+    "korean_name": "저리릴",
+    "english_name": "Eelektrik"
+  },
+  {
+    "number": "0604",
+    "korean_name": "저리더프",
+    "english_name": "Eelektross"
+  },
+  {
+    "number": "0605",
+    "korean_name": "리그레",
+    "english_name": "Elgyem"
+  },
+  {
+    "number": "0606",
+    "korean_name": "벰크",
+    "english_name": "Beheeyem"
+  },
+  {
+    "number": "0607",
+    "korean_name": "불켜미",
+    "english_name": "Litwick"
+  },
+  {
+    "number": "0608",
+    "korean_name": "램프라",
+    "english_name": "Lampent"
+  },
+  {
+    "number": "0609",
+    "korean_name": "샹델라",
+    "english_name": "Chandelure"
+  },
+  {
+    "number": "0610",
+    "korean_name": "터검니",
+    "english_name": "Axew"
+  },
+  {
+    "number": "0611",
+    "korean_name": "액슨도",
+    "english_name": "Fraxure"
+  },
+  {
+    "number": "0612",
+    "korean_name": "액스라이즈",
+    "english_name": "Haxorus"
+  },
+  {
+    "number": "0613",
+    "korean_name": "코고미",
+    "english_name": "Cubchoo"
+  },
+  {
+    "number": "0614",
+    "korean_name": "툰베어",
+    "english_name": "Beartic"
+  },
+  {
+    "number": "0615",
+    "korean_name": "프리지오",
+    "english_name": "Cryogonal"
+  },
+  {
+    "number": "0616",
+    "korean_name": "쪼마리",
+    "english_name": "Shelmet"
+  },
+  {
+    "number": "0617",
+    "korean_name": "어지리더",
+    "english_name": "Accelgor"
+  },
+  {
+    "number": "0618",
+    "korean_name": "메더",
+    "english_name": "Stunfisk"
+  },
+  {
+    "number": "0619",
+    "korean_name": "비조푸",
+    "english_name": "Mienfoo"
+  },
+  {
+    "number": "0620",
+    "korean_name": "비조도",
+    "english_name": "Mienshao"
+  },
+  {
+    "number": "0621",
+    "korean_name": "크리만",
+    "english_name": "Druddigon"
+  },
+  {
+    "number": "0622",
+    "korean_name": "골비람",
+    "english_name": "Golett"
+  },
+  {
+    "number": "0623",
+    "korean_name": "골루그",
+    "english_name": "Golurk"
+  },
+  {
+    "number": "0624",
+    "korean_name": "자망칼",
+    "english_name": "Pawniard"
+  },
+  {
+    "number": "0625",
+    "korean_name": "절각참",
+    "english_name": "Bisharp"
+  },
+  {
+    "number": "0626",
+    "korean_name": "버프론",
+    "english_name": "Bouffalant"
+  },
+  {
+    "number": "0627",
+    "korean_name": "수리둥보",
+    "english_name": "Rufflet"
+  },
+  {
+    "number": "0628",
+    "korean_name": "워글",
+    "english_name": "Braviary"
+  },
+  {
+    "number": "0629",
+    "korean_name": "벌차이",
+    "english_name": "Vullaby"
+  },
+  {
+    "number": "0630",
+    "korean_name": "버랜지나",
+    "english_name": "Mandibuzz"
+  },
+  {
+    "number": "0631",
+    "korean_name": "앤티골",
+    "english_name": "Heatmor"
+  },
+  {
+    "number": "0632",
+    "korean_name": "아이앤트",
+    "english_name": "Durant"
+  },
+  {
+    "number": "0633",
+    "korean_name": "모노두",
+    "english_name": "Deino"
+  },
+  {
+    "number": "0634",
+    "korean_name": "디헤드",
+    "english_name": "Zweilous"
+  },
+  {
+    "number": "0635",
+    "korean_name": "삼삼드래",
+    "english_name": "Hydreigon"
+  },
+  {
+    "number": "0636",
+    "korean_name": "활화르바",
+    "english_name": "Larvesta"
+  },
+  {
+    "number": "0637",
+    "korean_name": "불카모스",
+    "english_name": "Volcarona"
+  },
+  {
+    "number": "0638",
+    "korean_name": "코바르온",
+    "english_name": "Cobalion"
+  },
+  {
+    "number": "0639",
+    "korean_name": "테라키온",
+    "english_name": "Terrakion"
+  },
+  {
+    "number": "0640",
+    "korean_name": "비리디온",
+    "english_name": "Virizion"
+  },
+  {
+    "number": "0641",
+    "korean_name": "토네로스",
+    "english_name": "Tornadus Incarnate"
+  },
+  {
+    "number": "0642",
+    "korean_name": "볼트로스",
+    "english_name": "Thundurus Incarnate"
+  },
+  {
+    "number": "0643",
+    "korean_name": "레시라무",
+    "english_name": "Reshiram"
+  },
+  {
+    "number": "0644",
+    "korean_name": "제크로무",
+    "english_name": "Zekrom"
+  },
+  {
+    "number": "0645",
+    "korean_name": "랜드로스",
+    "english_name": "Landorus Incarnate"
+  },
+  {
+    "number": "0646",
+    "korean_name": "큐레무",
+    "english_name": "Kyurem"
+  },
+  {
+    "number": "0647",
+    "korean_name": "케르디오",
+    "english_name": "Keldeo Ordinary"
+  },
+  {
+    "number": "0648",
+    "korean_name": "메로엣타",
+    "english_name": "Meloetta Aria"
+  },
+  {
+    "number": "0649",
+    "korean_name": "게노세크트",
+    "english_name": "Genesect"
+  },
+  {
+    "number": "0650",
+    "korean_name": "도치마론",
+    "english_name": "Chespin"
+  },
+  {
+    "number": "0651",
+    "korean_name": "도치보구",
+    "english_name": "Quilladin"
+  },
+  {
+    "number": "0652",
+    "korean_name": "브리가론",
+    "english_name": "Chesnaught"
+  },
+  {
+    "number": "0653",
+    "korean_name": "푸호꼬",
+    "english_name": "Fennekin"
+  },
+  {
+    "number": "0654",
+    "korean_name": "테르나",
+    "english_name": "Braixen"
+  },
+  {
+    "number": "0655",
+    "korean_name": "마폭시",
+    "english_name": "Delphox"
+  },
+  {
+    "number": "0656",
+    "korean_name": "개구마르",
+    "english_name": "Froakie"
+  },
+  {
+    "number": "0657",
+    "korean_name": "개굴반장",
+    "english_name": "Frogadier"
+  },
+  {
+    "number": "0658",
+    "korean_name": "개굴닌자",
+    "english_name": "Greninja"
+  },
+  {
+    "number": "0659",
+    "korean_name": "파르빗",
+    "english_name": "Bunnelby"
+  },
+  {
+    "number": "0660",
+    "korean_name": "파르토",
+    "english_name": "Diggersby"
+  },
+  {
+    "number": "0661",
+    "korean_name": "화살꼬빈",
+    "english_name": "Fletchling"
+  },
+  {
+    "number": "0662",
+    "korean_name": "불화살빈",
+    "english_name": "Fletchinder"
+  },
+  {
+    "number": "0663",
+    "korean_name": "파이어로",
+    "english_name": "Talonflame"
+  },
+  {
+    "number": "0664",
+    "korean_name": "분이벌레",
+    "english_name": "Scatterbug"
+  },
+  {
+    "number": "0665",
+    "korean_name": "분떠도리",
+    "english_name": "Spewpa"
+  },
+  {
+    "number": "0666",
+    "korean_name": "비비용",
+    "english_name": "Vivillon"
+  },
+  {
+    "number": "0667",
+    "korean_name": "레오꼬",
+    "english_name": "Litleo"
+  },
+  {
+    "number": "0668",
+    "korean_name": "화염레오",
+    "english_name": "Pyroar"
+  },
+  {
+    "number": "0669",
+    "korean_name": "플라베베",
+    "english_name": "Flabebe"
+  },
+  {
+    "number": "0670",
+    "korean_name": "플라엣테",
+    "english_name": "Floette"
+  },
+  {
+    "number": "0671",
+    "korean_name": "플라제스",
+    "english_name": "Florges"
+  },
+  {
+    "number": "0672",
+    "korean_name": "메이클",
+    "english_name": "Skiddo"
+  },
+  {
+    "number": "0673",
+    "korean_name": "고고트",
+    "english_name": "Gogoat"
+  },
+  {
+    "number": "0674",
+    "korean_name": "판짱",
+    "english_name": "Pancham"
+  },
+  {
+    "number": "0675",
+    "korean_name": "부란다",
+    "english_name": "Pangoro"
+  },
+  {
+    "number": "0676",
+    "korean_name": "트리미앙",
+    "english_name": "Furfrou"
+  },
+  {
+    "number": "0677",
+    "korean_name": "냐스퍼",
+    "english_name": "Espurr"
+  },
+  {
+    "number": "0678",
+    "korean_name": "냐오닉스",
+    "english_name": "Meowstic Male"
+  },
+  {
+    "number": "0679",
+    "korean_name": "단칼빙",
+    "english_name": "Honedge"
+  },
+  {
+    "number": "0680",
+    "korean_name": "쌍검킬",
+    "english_name": "Doublade"
+  },
+  {
+    "number": "0681",
+    "korean_name": "킬가르도",
+    "english_name": "Aegislash Shield"
+  },
+  {
+    "number": "0682",
+    "korean_name": "슈쁘",
+    "english_name": "Spritzee"
+  },
+  {
+    "number": "0683",
+    "korean_name": "프레프티르",
+    "english_name": "Aromatisse"
+  },
+  {
+    "number": "0684",
+    "korean_name": "나룸퍼프",
+    "english_name": "Swirlix"
+  },
+  {
+    "number": "0685",
+    "korean_name": "나루림",
+    "english_name": "Slurpuff"
+  },
+  {
+    "number": "0686",
+    "korean_name": "오케이징",
+    "english_name": "Inkay"
+  },
+  {
+    "number": "0687",
+    "korean_name": "칼라마네로",
+    "english_name": "Malamar"
+  },
+  {
+    "number": "0688",
+    "korean_name": "거북손손",
+    "english_name": "Binacle"
+  },
+  {
+    "number": "0689",
+    "korean_name": "거북손데스",
+    "english_name": "Barbaracle"
+  },
+  {
+    "number": "0690",
+    "korean_name": "수레기",
+    "english_name": "Skrelp"
+  },
+  {
+    "number": "0691",
+    "korean_name": "드래캄",
+    "english_name": "Dragalge"
+  },
+  {
+    "number": "0692",
+    "korean_name": "완철포",
+    "english_name": "Clauncher"
+  },
+  {
+    "number": "0693",
+    "korean_name": "블로스터",
+    "english_name": "Clawitzer"
+  },
+  {
+    "number": "0694",
+    "korean_name": "목도리키텔",
+    "english_name": "Helioptile"
+  },
+  {
+    "number": "0695",
+    "korean_name": "일레도리자드",
+    "english_name": "Heliolisk"
+  },
+  {
+    "number": "0696",
+    "korean_name": "티고라스",
+    "english_name": "Tyrunt"
+  },
+  {
+    "number": "0697",
+    "korean_name": "견고라스",
+    "english_name": "Tyrantrum"
+  },
+  {
+    "number": "0698",
+    "korean_name": "아마루스",
+    "english_name": "Amaura"
+  },
+  {
+    "number": "0699",
+    "korean_name": "아마루르가",
+    "english_name": "Aurorus"
+  },
+  {
+    "number": "0700",
+    "korean_name": "님피아",
+    "english_name": "Sylveon"
+  },
+  {
+    "number": "0701",
+    "korean_name": "루차불",
+    "english_name": "Hawlucha"
+  },
+  {
+    "number": "0702",
+    "korean_name": "데덴네",
+    "english_name": "Dedenne"
+  },
+  {
+    "number": "0703",
+    "korean_name": "멜리시",
+    "english_name": "Carbink"
+  },
+  {
+    "number": "0704",
+    "korean_name": "미끄메라",
+    "english_name": "Goomy"
+  },
+  {
+    "number": "0705",
+    "korean_name": "미끄네일",
+    "english_name": "Sliggoo"
+  },
+  {
+    "number": "0706",
+    "korean_name": "미끄래곤",
+    "english_name": "Goodra"
+  },
+  {
+    "number": "0707",
+    "korean_name": "클레피",
+    "english_name": "Klefki"
+  },
+  {
+    "number": "0708",
+    "korean_name": "나목령",
+    "english_name": "Phantump"
+  },
+  {
+    "number": "0709",
+    "korean_name": "대로트",
+    "english_name": "Trevenant"
+  },
+  {
+    "number": "0710",
+    "korean_name": "호바귀",
+    "english_name": "Pumpkaboo Average"
+  },
+  {
+    "number": "0711",
+    "korean_name": "펌킨인",
+    "english_name": "Gourgeist Average"
+  },
+  {
+    "number": "0712",
+    "korean_name": "꽁어름",
+    "english_name": "Bergmite"
+  },
+  {
+    "number": "0713",
+    "korean_name": "크레베이스",
+    "english_name": "Avalugg"
+  },
+  {
+    "number": "0714",
+    "korean_name": "음뱃",
+    "english_name": "Noibat"
+  },
+  {
+    "number": "0715",
+    "korean_name": "음번",
+    "english_name": "Noivern"
+  },
+  {
+    "number": "0716",
+    "korean_name": "제르네아스",
+    "english_name": "Xerneas"
+  },
+  {
+    "number": "0717",
+    "korean_name": "이벨타르",
+    "english_name": "Yveltal"
+  },
+  {
+    "number": "0718",
+    "korean_name": "지가르데",
+    "english_name": "Zygarde 50"
+  },
+  {
+    "number": "0719",
+    "korean_name": "디안시",
+    "english_name": "Diancie"
+  },
+  {
+    "number": "0720",
+    "korean_name": "후파",
+    "english_name": "Hoopa"
+  },
+  {
+    "number": "0721",
+    "korean_name": "볼케니온",
+    "english_name": "Volcanion"
+  },
+  {
+    "number": "0722",
+    "korean_name": "나몰빼미",
+    "english_name": "Rowlet"
+  },
+  {
+    "number": "0723",
+    "korean_name": "빼미스로우",
+    "english_name": "Dartrix"
+  },
+  {
+    "number": "0724",
+    "korean_name": "모크나이퍼",
+    "english_name": "Decidueye"
+  },
+  {
+    "number": "0725",
+    "korean_name": "냐오불",
+    "english_name": "Litten"
+  },
+  {
+    "number": "0726",
+    "korean_name": "냐오히트",
+    "english_name": "Torracat"
+  },
+  {
+    "number": "0727",
+    "korean_name": "어흥염",
+    "english_name": "Incineroar"
+  },
+  {
+    "number": "0728",
+    "korean_name": "누리공",
+    "english_name": "Popplio"
+  },
+  {
+    "number": "0729",
+    "korean_name": "키요공",
+    "english_name": "Brionne"
+  },
+  {
+    "number": "0730",
+    "korean_name": "누리레느",
+    "english_name": "Primarina"
+  },
+  {
+    "number": "0731",
+    "korean_name": "콕코구리",
+    "english_name": "Pikipek"
+  },
+  {
+    "number": "0732",
+    "korean_name": "크라파",
+    "english_name": "Trumbeak"
+  },
+  {
+    "number": "0733",
+    "korean_name": "왕큰부리",
+    "english_name": "Toucannon"
+  },
+  {
+    "number": "0734",
+    "korean_name": "영구스",
+    "english_name": "Yungoos"
+  },
+  {
+    "number": "0735",
+    "korean_name": "형사구스",
+    "english_name": "Gumshoos"
+  },
+  {
+    "number": "0736",
+    "korean_name": "턱지충이",
+    "english_name": "Grubbin"
+  },
+  {
+    "number": "0737",
+    "korean_name": "전지충이",
+    "english_name": "Charjabug"
+  },
+  {
+    "number": "0738",
+    "korean_name": "투구뿌논",
+    "english_name": "Vikavolt"
+  },
+  {
+    "number": "0739",
+    "korean_name": "오기지게",
+    "english_name": "Crabrawler"
+  },
+  {
+    "number": "0740",
+    "korean_name": "모단단게",
+    "english_name": "Crabominable"
+  },
+  {
+    "number": "0741",
+    "korean_name": "춤추새",
+    "english_name": "Oricorio Baile"
+  },
+  {
+    "number": "0742",
+    "korean_name": "에블리",
+    "english_name": "Cutiefly"
+  },
+  {
+    "number": "0743",
+    "korean_name": "에리본",
+    "english_name": "Ribombee"
+  },
+  {
+    "number": "0744",
+    "korean_name": "암멍이",
+    "english_name": "Rockruff"
+  },
+  {
+    "number": "0745",
+    "korean_name": "루가루암",
+    "english_name": "Lycanroc Midday"
+  },
+  {
+    "number": "0746",
+    "korean_name": "약어리",
+    "english_name": "Wishiwashi Solo"
+  },
+  {
+    "number": "0747",
+    "korean_name": "시마사리",
+    "english_name": "Mareanie"
+  },
+  {
+    "number": "0748",
+    "korean_name": "더시마사리",
+    "english_name": "Toxapex"
+  },
+  {
+    "number": "0749",
+    "korean_name": "머드나기",
+    "english_name": "Mudbray"
+  },
+  {
+    "number": "0750",
+    "korean_name": "만마드",
+    "english_name": "Mudsdale"
+  },
+  {
+    "number": "0751",
+    "korean_name": "물거미",
+    "english_name": "Dewpider"
+  },
+  {
+    "number": "0752",
+    "korean_name": "깨비물거미",
+    "english_name": "Araquanid"
+  },
+  {
+    "number": "0753",
+    "korean_name": "짜랑랑",
+    "english_name": "Fomantis"
+  },
+  {
+    "number": "0754",
+    "korean_name": "라란티스",
+    "english_name": "Lurantis"
+  },
+  {
+    "number": "0755",
+    "korean_name": "자마슈",
+    "english_name": "Morelull"
+  },
+  {
+    "number": "0756",
+    "korean_name": "마셰이드",
+    "english_name": "Shiinotic"
+  },
+  {
+    "number": "0757",
+    "korean_name": "야도뇽",
+    "english_name": "Salandit"
+  },
+  {
+    "number": "0758",
+    "korean_name": "염뉴트",
+    "english_name": "Salazzle"
+  },
+  {
+    "number": "0759",
+    "korean_name": "포곰곰",
+    "english_name": "Stufful"
+  },
+  {
+    "number": "0760",
+    "korean_name": "이븐곰",
+    "english_name": "Bewear"
+  },
+  {
+    "number": "0761",
+    "korean_name": "달콤아",
+    "english_name": "Bounsweet"
+  },
+  {
+    "number": "0762",
+    "korean_name": "달무리나",
+    "english_name": "Steenee"
+  },
+  {
+    "number": "0763",
+    "korean_name": "달코퀸",
+    "english_name": "Tsareena"
+  },
+  {
+    "number": "0764",
+    "korean_name": "큐아링",
+    "english_name": "Comfey"
+  },
+  {
+    "number": "0765",
+    "korean_name": "하랑우탄",
+    "english_name": "Oranguru"
+  },
+  {
+    "number": "0766",
+    "korean_name": "내던숭이",
+    "english_name": "Passimian"
+  },
+  {
+    "number": "0767",
+    "korean_name": "꼬시레",
+    "english_name": "Wimpod"
+  },
+  {
+    "number": "0768",
+    "korean_name": "갑주무사",
+    "english_name": "Golisopod"
+  },
+  {
+    "number": "0769",
+    "korean_name": "모래꿍",
+    "english_name": "Sandygast"
+  },
+  {
+    "number": "0770",
+    "korean_name": "모래성이당",
+    "english_name": "Palossand"
+  },
+  {
+    "number": "0771",
+    "korean_name": "해무기",
+    "english_name": "Pyukumuku"
+  },
+  {
+    "number": "0772",
+    "korean_name": "타입:널",
+    "english_name": "Type Null"
+  },
+  {
+    "number": "0773",
+    "korean_name": "실버디",
+    "english_name": "Silvally"
+  },
+  {
+    "number": "0774",
+    "korean_name": "메테노",
+    "english_name": "Minior Red Meteor"
+  },
+  {
+    "number": "0775",
+    "korean_name": "자말라",
+    "english_name": "Komala"
+  },
+  {
+    "number": "0776",
+    "korean_name": "폭거북스",
+    "english_name": "Turtonator"
+  },
+  {
+    "number": "0777",
+    "korean_name": "토게데마루",
+    "english_name": "Togedemaru"
+  },
+  {
+    "number": "0778",
+    "korean_name": "따라큐",
+    "english_name": "Mimikyu Disguised"
+  },
+  {
+    "number": "0779",
+    "korean_name": "치갈기",
+    "english_name": "Bruxish"
+  },
+  {
+    "number": "0780",
+    "korean_name": "할비롱",
+    "english_name": "Drampa"
+  },
+  {
+    "number": "0781",
+    "korean_name": "타타륜",
+    "english_name": "Dhelmise"
+  },
+  {
+    "number": "0782",
+    "korean_name": "짜랑꼬",
+    "english_name": "Jangmo O"
+  },
+  {
+    "number": "0783",
+    "korean_name": "짜랑고우",
+    "english_name": "Hakamo O"
+  },
+  {
+    "number": "0784",
+    "korean_name": "짜랑고우거",
+    "english_name": "Kommo O"
+  },
+  {
+    "number": "0785",
+    "korean_name": "카푸꼬꼬꼭",
+    "english_name": "Tapu Koko"
+  },
+  {
+    "number": "0786",
+    "korean_name": "카푸나비나",
+    "english_name": "Tapu Lele"
+  },
+  {
+    "number": "0787",
+    "korean_name": "카푸브루루",
+    "english_name": "Tapu Bulu"
+  },
+  {
+    "number": "0788",
+    "korean_name": "카푸느지느",
+    "english_name": "Tapu Fini"
+  },
+  {
+    "number": "0789",
+    "korean_name": "코스모그",
+    "english_name": "Cosmog"
+  },
+  {
+    "number": "0790",
+    "korean_name": "코스모움",
+    "english_name": "Cosmoem"
+  },
+  {
+    "number": "0791",
+    "korean_name": "솔가레오",
+    "english_name": "Solgaleo"
+  },
+  {
+    "number": "0792",
+    "korean_name": "루나아라",
+    "english_name": "Lunala"
+  },
+  {
+    "number": "0793",
+    "korean_name": "텅비드",
+    "english_name": "Nihilego"
+  },
+  {
+    "number": "0794",
+    "korean_name": "매시붕",
+    "english_name": "Buzzwole"
+  },
+  {
+    "number": "0795",
+    "korean_name": "페로코체",
+    "english_name": "Pheromosa"
+  },
+  {
+    "number": "0796",
+    "korean_name": "전수목",
+    "english_name": "Xurkitree"
+  },
+  {
+    "number": "0797",
+    "korean_name": "철화구야",
+    "english_name": "Celesteela"
+  },
+  {
+    "number": "0798",
+    "korean_name": "종이신도",
+    "english_name": "Kartana"
+  },
+  {
+    "number": "0799",
+    "korean_name": "악식킹",
+    "english_name": "Guzzlord"
+  },
+  {
+    "number": "0800",
+    "korean_name": "네크로즈마",
+    "english_name": "Necrozma"
+  },
+  {
+    "number": "0801",
+    "korean_name": "마기아나",
+    "english_name": "Magearna"
+  },
+  {
+    "number": "0802",
+    "korean_name": "마샤도",
+    "english_name": "Marshadow"
+  },
+  {
+    "number": "0803",
+    "korean_name": "베베놈",
+    "english_name": "Poipole"
+  },
+  {
+    "number": "0804",
+    "korean_name": "아고용",
+    "english_name": "Naganadel"
+  },
+  {
+    "number": "0805",
+    "korean_name": "차곡차곡",
+    "english_name": "Stakataka"
+  },
+  {
+    "number": "0806",
+    "korean_name": "두파팡",
+    "english_name": "Blacephalon"
+  },
+  {
+    "number": "0807",
+    "korean_name": "제라오라",
+    "english_name": "Zeraora"
+  },
+  {
+    "number": "0808",
+    "korean_name": "멜탄",
+    "english_name": "Meltan"
+  },
+  {
+    "number": "0809",
+    "korean_name": "멜메탈",
+    "english_name": "Melmetal"
+  },
+  {
+    "number": "0810",
+    "korean_name": "흥나숭",
+    "english_name": "Grookey"
+  },
+  {
+    "number": "0811",
+    "korean_name": "채키몽",
+    "english_name": "Thwackey"
+  },
+  {
+    "number": "0812",
+    "korean_name": "고릴타",
+    "english_name": "Rillaboom"
+  },
+  {
+    "number": "0813",
+    "korean_name": "염버니",
+    "english_name": "Scorbunny"
+  },
+  {
+    "number": "0814",
+    "korean_name": "래비풋",
+    "english_name": "Raboot"
+  },
+  {
+    "number": "0815",
+    "korean_name": "에이스번",
+    "english_name": "Cinderace"
+  },
+  {
+    "number": "0816",
+    "korean_name": "울머기",
+    "english_name": "Sobble"
+  },
+  {
+    "number": "0817",
+    "korean_name": "누겔레온",
+    "english_name": "Drizzile"
+  },
+  {
+    "number": "0818",
+    "korean_name": "인텔리레온",
+    "english_name": "Inteleon"
+  },
+  {
+    "number": "0819",
+    "korean_name": "탐리스",
+    "english_name": "Skwovet"
+  },
+  {
+    "number": "0820",
+    "korean_name": "요씽리스",
+    "english_name": "Greedent"
+  },
+  {
+    "number": "0821",
+    "korean_name": "파라꼬",
+    "english_name": "Rookidee"
+  },
+  {
+    "number": "0822",
+    "korean_name": "파크로우",
+    "english_name": "Corvisquire"
+  },
+  {
+    "number": "0823",
+    "korean_name": "아머까오",
+    "english_name": "Corviknight"
+  },
+  {
+    "number": "0824",
+    "korean_name": "두루지벌레",
+    "english_name": "Blipbug"
+  },
+  {
+    "number": "0825",
+    "korean_name": "레돔벌레",
+    "english_name": "Dottler"
+  },
+  {
+    "number": "0826",
+    "korean_name": "이올브",
+    "english_name": "Orbeetle"
+  },
+  {
+    "number": "0827",
+    "korean_name": "훔처우",
+    "english_name": "Nickit"
+  },
+  {
+    "number": "0828",
+    "korean_name": "폭슬라이",
+    "english_name": "Thievul"
+  },
+  {
+    "number": "0829",
+    "korean_name": "꼬모카",
+    "english_name": "Gossifleur"
+  },
+  {
+    "number": "0830",
+    "korean_name": "백솜모카",
+    "english_name": "Eldegoss"
+  },
+  {
+    "number": "0831",
+    "korean_name": "우르",
+    "english_name": "Wooloo"
+  },
+  {
+    "number": "0832",
+    "korean_name": "배우르",
+    "english_name": "Dubwool"
+  },
+  {
+    "number": "0833",
+    "korean_name": "깨물부기",
+    "english_name": "Chewtle"
+  },
+  {
+    "number": "0834",
+    "korean_name": "갈가부기",
+    "english_name": "Drednaw"
+  },
+  {
+    "number": "0835",
+    "korean_name": "멍파치",
+    "english_name": "Yamper"
+  },
+  {
+    "number": "0836",
+    "korean_name": "펄스멍",
+    "english_name": "Boltund"
+  },
+  {
+    "number": "0837",
+    "korean_name": "탄동",
+    "english_name": "Rolycoly"
+  },
+  {
+    "number": "0838",
+    "korean_name": "탄차곤",
+    "english_name": "Carkol"
+  },
+  {
+    "number": "0839",
+    "korean_name": "석탄산",
+    "english_name": "Coalossal"
+  },
+  {
+    "number": "0840",
+    "korean_name": "과사삭벌레",
+    "english_name": "Applin"
+  },
+  {
+    "number": "0841",
+    "korean_name": "애프룡",
+    "english_name": "Flapple"
+  },
+  {
+    "number": "0842",
+    "korean_name": "단지래플",
+    "english_name": "Appletun"
+  },
+  {
+    "number": "0843",
+    "korean_name": "모래뱀",
+    "english_name": "Silicobra"
+  },
+  {
+    "number": "0844",
+    "korean_name": "사다이사",
+    "english_name": "Sandaconda"
+  },
+  {
+    "number": "0845",
+    "korean_name": "윽우지",
+    "english_name": "Cramorant"
+  },
+  {
+    "number": "0846",
+    "korean_name": "찌로꼬치",
+    "english_name": "Arrokuda"
+  },
+  {
+    "number": "0847",
+    "korean_name": "꼬치조",
+    "english_name": "Barraskewda"
+  },
+  {
+    "number": "0848",
+    "korean_name": "일레즌",
+    "english_name": "Toxel"
+  },
+  {
+    "number": "0849",
+    "korean_name": "스트린더",
+    "english_name": "Toxtricity Amped"
+  },
+  {
+    "number": "0850",
+    "korean_name": "태우지네",
+    "english_name": "Sizzlipede"
+  },
+  {
+    "number": "0851",
+    "korean_name": "다태우지네",
+    "english_name": "Centiskorch"
+  },
+  {
+    "number": "0852",
+    "korean_name": "때때무노",
+    "english_name": "Clobbopus"
+  },
+  {
+    "number": "0853",
+    "korean_name": "케오퍼스",
+    "english_name": "Grapploct"
+  },
+  {
+    "number": "0854",
+    "korean_name": "데인차",
+    "english_name": "Sinistea"
+  },
+  {
+    "number": "0855",
+    "korean_name": "포트데스",
+    "english_name": "Polteageist"
+  },
+  {
+    "number": "0856",
+    "korean_name": "몸지브림",
+    "english_name": "Hatenna"
+  },
+  {
+    "number": "0857",
+    "korean_name": "손지브림",
+    "english_name": "Hattrem"
+  },
+  {
+    "number": "0858",
+    "korean_name": "브리무음",
+    "english_name": "Hatterene"
+  },
+  {
+    "number": "0859",
+    "korean_name": "메롱꿍",
+    "english_name": "Impidimp"
+  },
+  {
+    "number": "0860",
+    "korean_name": "쏘겨모",
+    "english_name": "Morgrem"
+  },
+  {
+    "number": "0861",
+    "korean_name": "오롱털",
+    "english_name": "Grimmsnarl"
+  },
+  {
+    "number": "0862",
+    "korean_name": "가로막구리",
+    "english_name": "Obstagoon"
+  },
+  {
+    "number": "0863",
+    "korean_name": "나이킹",
+    "english_name": "Perrserker"
+  },
+  {
+    "number": "0864",
+    "korean_name": "산호르곤",
+    "english_name": "Cursola"
+  },
+  {
+    "number": "0865",
+    "korean_name": "창파나이트",
+    "english_name": "Sirfetchd"
+  },
+  {
+    "number": "0866",
+    "korean_name": "마임꽁꽁",
+    "english_name": "Mr Rime"
+  },
+  {
+    "number": "0867",
+    "korean_name": "데스판",
+    "english_name": "Runerigus"
+  },
+  {
+    "number": "0868",
+    "korean_name": "마빌크",
+    "english_name": "Milcery"
+  },
+  {
+    "number": "0869",
+    "korean_name": "마휘핑",
+    "english_name": "Alcremie"
+  },
+  {
+    "number": "0870",
+    "korean_name": "대여르",
+    "english_name": "Falinks"
+  },
+  {
+    "number": "0871",
+    "korean_name": "찌르성게",
+    "english_name": "Pincurchin"
+  },
+  {
+    "number": "0872",
+    "korean_name": "누니머기",
+    "english_name": "Snom"
+  },
+  {
+    "number": "0873",
+    "korean_name": "모스노우",
+    "english_name": "Frosmoth"
+  },
+  {
+    "number": "0874",
+    "korean_name": "돌헨진",
+    "english_name": "Stonjourner"
+  },
+  {
+    "number": "0875",
+    "korean_name": "빙큐보",
+    "english_name": "Eiscue Ice"
+  },
+  {
+    "number": "0876",
+    "korean_name": "에써르",
+    "english_name": "Indeedee Male"
+  },
+  {
+    "number": "0877",
+    "korean_name": "모르페코",
+    "english_name": "Morpeko Full Belly"
+  },
+  {
+    "number": "0878",
+    "korean_name": "끼리동",
+    "english_name": "Cufant"
+  },
+  {
+    "number": "0879",
+    "korean_name": "대왕끼리동",
+    "english_name": "Copperajah"
+  },
+  {
+    "number": "0880",
+    "korean_name": "파치래곤",
+    "english_name": "Dracozolt"
+  },
+  {
+    "number": "0881",
+    "korean_name": "파치르돈",
+    "english_name": "Arctozolt"
+  },
+  {
+    "number": "0882",
+    "korean_name": "어래곤",
+    "english_name": "Dracovish"
+  },
+  {
+    "number": "0883",
+    "korean_name": "어치르돈",
+    "english_name": "Arctovish"
+  },
+  {
+    "number": "0884",
+    "korean_name": "두랄루돈",
+    "english_name": "Duraludon"
+  },
+  {
+    "number": "0885",
+    "korean_name": "드라꼰",
+    "english_name": "Dreepy"
+  },
+  {
+    "number": "0886",
+    "korean_name": "드래런치",
+    "english_name": "Drakloak"
+  },
+  {
+    "number": "0887",
+    "korean_name": "드래펄트",
+    "english_name": "Dragapult"
+  },
+  {
+    "number": "0888",
+    "korean_name": "자시안",
+    "english_name": "Zacian"
+  },
+  {
+    "number": "0889",
+    "korean_name": "자마젠타",
+    "english_name": "Zamazenta"
+  },
+  {
+    "number": "0890",
+    "korean_name": "무한다이노",
+    "english_name": "Eternatus"
+  },
+  {
+    "number": "0891",
+    "korean_name": "치고마",
+    "english_name": "Kubfu"
+  },
+  {
+    "number": "0892",
+    "korean_name": "우라오스",
+    "english_name": "Urshifu Single Strike"
+  },
+  {
+    "number": "0893",
+    "korean_name": "자루도",
+    "english_name": "Zarude"
+  },
+  {
+    "number": "0894",
+    "korean_name": "레지에레키",
+    "english_name": "Regieleki"
+  },
+  {
+    "number": "0895",
+    "korean_name": "레지드래고",
+    "english_name": "Regidrago"
+  },
+  {
+    "number": "0896",
+    "korean_name": "블리자포스",
+    "english_name": "Glastrier"
+  },
+  {
+    "number": "0897",
+    "korean_name": "레이스포스",
+    "english_name": "Spectrier"
+  },
+  {
+    "number": "0898",
+    "korean_name": "버드렉스",
+    "english_name": "Calyrex"
+  },
+  {
+    "number": "0899",
+    "korean_name": "신비록",
+    "english_name": "Wyrdeer"
+  },
+  {
+    "number": "0900",
+    "korean_name": "사마자르",
+    "english_name": "Kleavor"
+  },
+  {
+    "number": "0901",
+    "korean_name": "다투곰",
+    "english_name": "Ursaluna"
+  },
+  {
+    "number": "0902",
+    "korean_name": "대쓰여너",
+    "english_name": "Basculegion Male"
+  },
+  {
+    "number": "0903",
+    "korean_name": "포푸니크",
+    "english_name": "Sneasler"
+  },
+  {
+    "number": "0904",
+    "korean_name": "장침바루",
+    "english_name": "Overqwil"
+  },
+  {
+    "number": "0905",
+    "korean_name": "러브로스",
+    "english_name": "Enamorus Incarnate"
+  },
+  {
+    "number": "0906",
+    "korean_name": "나오하",
+    "english_name": "Sprigatito"
+  },
+  {
+    "number": "0907",
+    "korean_name": "나로테",
+    "english_name": "Floragato"
+  },
+  {
+    "number": "0908",
+    "korean_name": "마스카나",
+    "english_name": "Meowscarada"
+  },
+  {
+    "number": "0909",
+    "korean_name": "뜨아거",
+    "english_name": "Fuecoco"
+  },
+  {
+    "number": "0910",
+    "korean_name": "악뜨거",
+    "english_name": "Crocalor"
+  },
+  {
+    "number": "0911",
+    "korean_name": "라우드본",
+    "english_name": "Skeledirge"
+  },
+  {
+    "number": "0912",
+    "korean_name": "꾸왁스",
+    "english_name": "Quaxly"
+  },
+  {
+    "number": "0913",
+    "korean_name": "아꾸왁",
+    "english_name": "Quaxwell"
+  },
+  {
+    "number": "0914",
+    "korean_name": "웨이니발",
+    "english_name": "Quaquaval"
+  },
+  {
+    "number": "0915",
+    "korean_name": "맛보돈",
+    "english_name": "Lechonk"
+  },
+  {
+    "number": "0916",
+    "korean_name": "퍼퓨돈",
+    "english_name": "Oinkologne Male"
+  },
+  {
+    "number": "0917",
+    "korean_name": "타랜툴라",
+    "english_name": "Tarountula"
+  },
+  {
+    "number": "0918",
+    "korean_name": "트래피더",
+    "english_name": "Spidops"
+  },
+  {
+    "number": "0919",
+    "korean_name": "콩알뚜기",
+    "english_name": "Nymble"
+  },
+  {
+    "number": "0920",
+    "korean_name": "엑스레그",
+    "english_name": "Lokix"
+  },
+  {
+    "number": "0921",
+    "korean_name": "빠모",
+    "english_name": "Pawmi"
+  },
+  {
+    "number": "0922",
+    "korean_name": "빠모트",
+    "english_name": "Pawmo"
+  },
+  {
+    "number": "0923",
+    "korean_name": "빠르모트",
+    "english_name": "Pawmot"
+  },
+  {
+    "number": "0924",
+    "korean_name": "두리쥐",
+    "english_name": "Tandemaus"
+  },
+  {
+    "number": "0925",
+    "korean_name": "파밀리쥐",
+    "english_name": "Maushold Family Of Four"
+  },
+  {
+    "number": "0926",
+    "korean_name": "쫀도기",
+    "english_name": "Fidough"
+  },
+  {
+    "number": "0927",
+    "korean_name": "바우첼",
+    "english_name": "Dachsbun"
+  },
+  {
+    "number": "0928",
+    "korean_name": "미니브",
+    "english_name": "Smoliv"
+  },
+  {
+    "number": "0929",
+    "korean_name": "올리뇨",
+    "english_name": "Dolliv"
+  },
+  {
+    "number": "0930",
+    "korean_name": "올리르바",
+    "english_name": "Arboliva"
+  },
+  {
+    "number": "0931",
+    "korean_name": "시비꼬",
+    "english_name": "Squawkabilly Green Plumage"
+  },
+  {
+    "number": "0932",
+    "korean_name": "베베솔트",
+    "english_name": "Nacli"
+  },
+  {
+    "number": "0933",
+    "korean_name": "스태솔트",
+    "english_name": "Naclstack"
+  },
+  {
+    "number": "0934",
+    "korean_name": "콜로솔트",
+    "english_name": "Garganacl"
+  },
+  {
+    "number": "0935",
+    "korean_name": "카르본",
+    "english_name": "Charcadet"
+  },
+  {
+    "number": "0936",
+    "korean_name": "카디나르마",
+    "english_name": "Armarouge"
+  },
+  {
+    "number": "0937",
+    "korean_name": "파라블레이즈",
+    "english_name": "Ceruledge"
+  },
+  {
+    "number": "0938",
+    "korean_name": "빈나두",
+    "english_name": "Tadbulb"
+  },
+  {
+    "number": "0939",
+    "korean_name": "찌리배리",
+    "english_name": "Bellibolt"
+  },
+  {
+    "number": "0940",
+    "korean_name": "찌리비",
+    "english_name": "Wattrel"
+  },
+  {
+    "number": "0941",
+    "korean_name": "찌리비크",
+    "english_name": "Kilowattrel"
+  },
+  {
+    "number": "0942",
+    "korean_name": "오라티프",
+    "english_name": "Maschiff"
+  },
+  {
+    "number": "0943",
+    "korean_name": "마피티프",
+    "english_name": "Mabosstiff"
+  },
+  {
+    "number": "0944",
+    "korean_name": "땃쭈르",
+    "english_name": "Shroodle"
+  },
+  {
+    "number": "0945",
+    "korean_name": "태깅구르",
+    "english_name": "Grafaiai"
+  },
+  {
+    "number": "0946",
+    "korean_name": "그푸리",
+    "english_name": "Bramblin"
+  },
+  {
+    "number": "0947",
+    "korean_name": "공푸리",
+    "english_name": "Brambleghast"
+  },
+  {
+    "number": "0948",
+    "korean_name": "들눈해",
+    "english_name": "Toedscool"
+  },
+  {
+    "number": "0949",
+    "korean_name": "육파리",
+    "english_name": "Toedscruel"
+  },
+  {
+    "number": "0950",
+    "korean_name": "절벼게",
+    "english_name": "Klawf"
+  },
+  {
+    "number": "0951",
+    "korean_name": "캡싸이",
+    "english_name": "Capsakid"
+  },
+  {
+    "number": "0952",
+    "korean_name": "스코빌런",
+    "english_name": "Scovillain"
+  },
+  {
+    "number": "0953",
+    "korean_name": "구르데",
+    "english_name": "Rellor"
+  },
+  {
+    "number": "0954",
+    "korean_name": "베라카스",
+    "english_name": "Rabsca"
+  },
+  {
+    "number": "0955",
+    "korean_name": "하느라기",
+    "english_name": "Flittle"
+  },
+  {
+    "number": "0956",
+    "korean_name": "클레스퍼트라",
+    "english_name": "Espathra"
+  },
+  {
+    "number": "0957",
+    "korean_name": "어리짱",
+    "english_name": "Tinkatink"
+  },
+  {
+    "number": "0958",
+    "korean_name": "벼리짱",
+    "english_name": "Tinkatuff"
+  },
+  {
+    "number": "0959",
+    "korean_name": "두드리짱",
+    "english_name": "Tinkaton"
+  },
+  {
+    "number": "0960",
+    "korean_name": "바다그다",
+    "english_name": "Wiglett"
+  },
+  {
+    "number": "0961",
+    "korean_name": "바닥트리오",
+    "english_name": "Wugtrio"
+  },
+  {
+    "number": "0962",
+    "korean_name": "떨구새",
+    "english_name": "Bombirdier"
+  },
+  {
+    "number": "0963",
+    "korean_name": "맨돌핀",
+    "english_name": "Finizen"
+  },
+  {
+    "number": "0964",
+    "korean_name": "돌핀맨",
+    "english_name": "Palafin Zero"
+  },
+  {
+    "number": "0965",
+    "korean_name": "부르롱",
+    "english_name": "Varoom"
+  },
+  {
+    "number": "0966",
+    "korean_name": "부르르룸",
+    "english_name": "Revavroom"
+  },
+  {
+    "number": "0967",
+    "korean_name": "모토마",
+    "english_name": "Cyclizar"
+  },
+  {
+    "number": "0968",
+    "korean_name": "꿈트렁",
+    "english_name": "Orthworm"
+  },
+  {
+    "number": "0969",
+    "korean_name": "초롱순",
+    "english_name": "Glimmet"
+  },
+  {
+    "number": "0970",
+    "korean_name": "킬라플로르",
+    "english_name": "Glimmora"
+  },
+  {
+    "number": "0971",
+    "korean_name": "망망이",
+    "english_name": "Greavard"
+  },
+  {
+    "number": "0972",
+    "korean_name": "묘두기",
+    "english_name": "Houndstone"
+  },
+  {
+    "number": "0973",
+    "korean_name": "꼬이밍고",
+    "english_name": "Flamigo"
+  },
+  {
+    "number": "0974",
+    "korean_name": "터벅고래",
+    "english_name": "Cetoddle"
+  },
+  {
+    "number": "0975",
+    "korean_name": "우락고래",
+    "english_name": "Cetitan"
+  },
+  {
+    "number": "0976",
+    "korean_name": "가비루사",
+    "english_name": "Veluza"
+  },
+  {
+    "number": "0977",
+    "korean_name": "어써러셔",
+    "english_name": "Dondozo"
+  },
+  {
+    "number": "0978",
+    "korean_name": "싸리용",
+    "english_name": "Tatsugiri Curly"
+  },
+  {
+    "number": "0979",
+    "korean_name": "저승갓숭",
+    "english_name": "Annihilape"
+  },
+  {
+    "number": "0980",
+    "korean_name": "토오",
+    "english_name": "Clodsire"
+  },
+  {
+    "number": "0981",
+    "korean_name": "키키링",
+    "english_name": "Farigiraf"
+  },
+  {
+    "number": "0982",
+    "korean_name": "노고고치",
+    "english_name": "Dudunsparce Two Segment"
+  },
+  {
+    "number": "0983",
+    "korean_name": "대도각참",
+    "english_name": "Kingambit"
+  },
+  {
+    "number": "0984",
+    "korean_name": "위대한엄니",
+    "english_name": "Great Tusk"
+  },
+  {
+    "number": "0985",
+    "korean_name": "우렁찬꼬리",
+    "english_name": "Scream Tail"
+  },
+  {
+    "number": "0986",
+    "korean_name": "사나운버섯",
+    "english_name": "Brute Bonnet"
+  },
+  {
+    "number": "0987",
+    "korean_name": "날개치는머리",
+    "english_name": "Flutter Mane"
+  },
+  {
+    "number": "0988",
+    "korean_name": "땅을기는날개",
+    "english_name": "Slither Wing"
+  },
+  {
+    "number": "0989",
+    "korean_name": "모래털가죽",
+    "english_name": "Sandy Shocks"
+  },
+  {
+    "number": "0990",
+    "korean_name": "무쇠바퀴",
+    "english_name": "Iron Treads"
+  },
+  {
+    "number": "0991",
+    "korean_name": "무쇠보따리",
+    "english_name": "Iron Bundle"
+  },
+  {
+    "number": "0992",
+    "korean_name": "무쇠손",
+    "english_name": "Iron Hands"
+  },
+  {
+    "number": "0993",
+    "korean_name": "무쇠머리",
+    "english_name": "Iron Jugulis"
+  },
+  {
+    "number": "0994",
+    "korean_name": "무쇠독나방",
+    "english_name": "Iron Moth"
+  },
+  {
+    "number": "0995",
+    "korean_name": "무쇠가시",
+    "english_name": "Iron Thorns"
+  },
+  {
+    "number": "0996",
+    "korean_name": "드니차",
+    "english_name": "Frigibax"
+  },
+  {
+    "number": "0997",
+    "korean_name": "드니꽁",
+    "english_name": "Arctibax"
+  },
+  {
+    "number": "0998",
+    "korean_name": "드닐레이브",
+    "english_name": "Baxcalibur"
+  },
+  {
+    "number": "0999",
+    "korean_name": "모으령",
+    "english_name": "Gimmighoul"
+  },
+  {
+    "number": "1000",
+    "korean_name": "타부자고",
+    "english_name": "Gholdengo"
+  },
+  {
+    "number": "1001",
+    "korean_name": "총지엔",
+    "english_name": "Wo Chien"
+  },
+  {
+    "number": "1002",
+    "korean_name": "파오젠",
+    "english_name": "Chien Pao"
+  },
+  {
+    "number": "1003",
+    "korean_name": "딩루",
+    "english_name": "Ting Lu"
+  },
+  {
+    "number": "1004",
+    "korean_name": "위유이",
+    "english_name": "Chi Yu"
+  },
+  {
+    "number": "1005",
+    "korean_name": "고동치는달",
+    "english_name": "Roaring Moon"
+  },
+  {
+    "number": "1006",
+    "korean_name": "무쇠무인",
+    "english_name": "Iron Valiant"
+  },
+  {
+    "number": "1007",
+    "korean_name": "코라이돈",
+    "english_name": "Koraidon"
+  },
+  {
+    "number": "1008",
+    "korean_name": "미라이돈",
+    "english_name": "Miraidon"
+  },
+  {
+    "number": "1009",
+    "korean_name": "굽이치는물결",
+    "english_name": "Walking Wake"
+  },
+  {
+    "number": "1010",
+    "korean_name": "무쇠잎새",
+    "english_name": "Iron Leaves"
+  },
+  {
+    "number": "1011",
+    "korean_name": "과미르",
+    "english_name": "Dipplin"
+  },
+  {
+    "number": "1012",
+    "korean_name": "차데스",
+    "english_name": "Poltchageist"
+  },
+  {
+    "number": "1013",
+    "korean_name": "그우린차",
+    "english_name": "Sinistcha"
+  },
+  {
+    "number": "1014",
+    "korean_name": "조타구",
+    "english_name": "Okidogi"
+  },
+  {
+    "number": "1015",
+    "korean_name": "이야후",
+    "english_name": "Munkidori"
+  },
+  {
+    "number": "1016",
+    "korean_name": "기로치",
+    "english_name": "Fezandipiti"
+  },
+  {
+    "number": "1017",
+    "korean_name": "오거폰",
+    "english_name": "Ogerpon"
+  },
+  {
+    "number": "1018",
+    "korean_name": "브리두라스",
+    "english_name": "Archaludon"
+  },
+  {
+    "number": "1019",
+    "korean_name": "과미드라",
+    "english_name": "Hydrapple"
+  },
+  {
+    "number": "1020",
+    "korean_name": "꿰뚫는화염",
+    "english_name": "Gouging Fire"
+  },
+  {
+    "number": "1021",
+    "korean_name": "날뛰는우레",
+    "english_name": "Raging Bolt"
+  },
+  {
+    "number": "1022",
+    "korean_name": "무쇠암석",
+    "english_name": "Iron Boulder"
+  },
+  {
+    "number": "1023",
+    "korean_name": "무쇠감투",
+    "english_name": "Iron Crown"
+  },
+  {
+    "number": "1024",
+    "korean_name": "테라파고스",
+    "english_name": "Terapagos"
+  },
+  {
+    "number": "1025",
+    "korean_name": "복숭악동",
+    "english_name": "Pecharunt"
+  }
+]
