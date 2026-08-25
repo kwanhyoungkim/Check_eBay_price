@@ -29,7 +29,7 @@ import time
 
 import requests
 
-from tcg_pocket_filter import is_tcg_pocket_set
+from tcg_pocket_filter import is_tcg_pocket_set, KNOWN_TCG_POCKET_SET_IDS
 from tcgdex_helpers import collect_all_card_ids
 
 # 설정
@@ -41,6 +41,25 @@ FAILED_IDS_FILE = os.path.join(DATA_DIR, "all_cards_en.failed_ids.json")
 
 CARDS_EN_PATH = os.path.join(DATA_DIR, "all_cards_en.json")
 SERIES_INFO_PATH = os.path.join(DATA_DIR, "pokemon_series_us_info.json")
+
+
+def _is_pocket_card_id(card_id: str) -> bool:
+    """카드 상세를 조회하기 전에, ID의 세트 접두사만으로 TCG Pocket 세트 여부를 판별한다.
+
+    기존에는 카드 상세 응답(200)을 받은 뒤에만 is_tcg_pocket_set()으로 걸렀는데,
+    요청 자체가 실패(타임아웃/오류)하면 그 필터를 아예 못 타고 failed_ids.json에
+    그대로 쌓이는 문제가 있었다. 여기서는 요청을 보내기 전에 ID만으로 먼저 걸러서
+    Pocket 세트 카드가 실패 목록에 들어가는 걸 원천적으로 막는다.
+
+    TCGdex 카드 ID는 "{set_id}-{number}" 형식이라 첫 "-" 앞부분이 세트 ID다.
+    다만 KNOWN_TCG_POCKET_SET_IDS 안에는 "P-A"처럼 자체에 "-"가 들어간 코드도
+    있어서, 단순 split("-")[0] 대신 알려진 세트 ID로 시작하는지(뒤에 "-"가
+    오는지)를 직접 확인한다.
+    """
+    if not card_id:
+        return False
+    upper_id = card_id.upper()
+    return any(upper_id.startswith(f"{set_id}-") for set_id in KNOWN_TCG_POCKET_SET_IDS)
 
 
 def fetch_all_english_cards():
@@ -67,6 +86,15 @@ def fetch_all_english_cards():
     failed_ids = []
 
     for idx, card_id in enumerate(summary_ids, start=1):
+
+        # 상세 조회 전에 ID만으로 먼저 Pocket 세트를 걸러서, 요청이 실패해도
+        # failed_ids.json에 Pocket 카드가 섞여 들어가지 않게 한다.
+        if _is_pocket_card_id(card_id):
+            skipped_pocket += 1
+            if idx % 1000 == 0:
+                _save_checkpoint(all_details)
+                _save_failed_ids(failed_ids)
+            continue
 
         try:
             detail_res = requests.get(f"{TCGDEX_EN_URL}/cards/{card_id}", timeout=10)
@@ -168,6 +196,10 @@ def retry_failed_cards():
     recovered = 0
 
     for idx, card_id in enumerate(failed_ids, start=1):
+        # 예전에 저장된 실패 목록에 Pocket 세트 ID가 남아있을 수 있으니 재시도 전에도 걸러준다.
+        if _is_pocket_card_id(card_id):
+            continue
+
         try:
             detail_res = requests.get(f"{TCGDEX_EN_URL}/cards/{card_id}", timeout=15)
             if detail_res.status_code == 200:
