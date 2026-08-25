@@ -46,7 +46,9 @@ async function searchCards() {
             const cardElement = document.createElement('div');
             cardElement.className = 'card-item';
             cardElement.innerHTML = `
-                <img src="${card.image_url}" alt="${cardName}" onerror="this.src='https://via.placeholder.com/150?text=No+Image'">
+                <div class="card-image-container">
+                    <img class="card-image" src="${card.image_url}" alt="${cardName}" onerror="this.src='https://via.placeholder.com/150?text=No+Image'">
+                </div>
                 <div class="card-info">
                     <h4>${card.name}</h4>
                     <p class="series-info">${card.series} <b style="color:#3b4cca;">(${card.series_id})</b></p>
@@ -98,14 +100,33 @@ async function getPrices(name, series, number, series_id, language) {
             return;
         }
 
+        // 판매완료(sold) 데이터가 하나도 없고 전부 현재 판매중(active) 매물이면,
+        // "실거래가 아님"을 표 위에 안내한다 (Marketplace Insights API 미승인 시 대체 데이터).
+        const isAllActive = prices.every(item => item.status === 'active');
+        if (isAllActive) {
+            tableBody.innerHTML += `
+                <tr>
+                    <td colspan="3" style="text-align:center; color:#e67e22; background:#fff8ec; padding: 12px; font-size:0.85rem;">
+                        ⚠️ 판매완료 데이터를 아직 가져올 수 없어, 현재 판매중인 매물의 호가를 참고용으로 보여드립니다.
+                    </td>
+                </tr>
+            `;
+        }
+
         prices.forEach(item => {
-            const ebayLink = item.link || `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(item.title)}&LH_Sold=1&LH_Complete=1`;
-            
+            // item.link는 eBay가 내려주는 실제 상품 상세 페이지 URL(itemWebUrl).
+            // 없을 때만(예전 데이터 등) 검색 결과 페이지로 대체 이동한다.
+            const ebayLink = item.link || `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(item.title)}`;
+            const statusBadge = item.status === 'sold'
+                ? '<span style="color:#2ecc71; font-weight:bold;">판매완료</span>'
+                : '<span style="color:#e67e22;">판매중(참고)</span>';
+
             const row = `
-                <tr onclick="window.open('${ebayLink}', '_blank')" style="cursor:pointer;" title="클릭하면 이베이 상세 페이지로 이동합니다">
+                <tr style="cursor:pointer;" title="클릭하면 이베이 상세 페이지로 이동합니다">
                     <td>
                         <div style="font-size:0.85rem; color:#444; line-height:1.4;">${item.title}</div>
-                        <small style="color:#3498db; font-weight:bold;">🔗 이베이에서 상세 보기</small>
+                        <a href="${ebayLink}" target="_blank" rel="noopener noreferrer" style="color:#3498db; font-weight:bold; text-decoration:none; font-size:0.85rem;">🔗 이베이에서 상세 보기</a>
+                        <span style="margin-left:6px; font-size:0.8rem;">${statusBadge}</span>
                     </td>
                     <td><b style="color:#2f3542; white-space: nowrap;">${item.price} ${item.currency}</b></td>
                     <td style="color:#747d8c; font-size:0.85rem; white-space: nowrap;">${item.sold_date}</td>

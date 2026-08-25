@@ -31,3 +31,9 @@ backend/data/pokemon_series_jp_info.json
 # 포켓몬 다국어 이름 매핑도 Postgres(pokemon_names 테이블)로 이전했다.
 # (backend/database/load_pokemon_names.py 적재용 임시 파일로만 사용, git에는 안 올림)
 backend/data/pokemon_names.json
+
+# AI와 함께 정리한 코드 리뷰/신청서 등 참고용 메모. 버전관리 대상이 아니라
+# 로컬 참고용으로만 두고, git에는 올리지 않는다.
+PokePrice-Tracker_코드리뷰.md
+PokePrice-Tracker_추가개선사항.md
+eBay_MarketplaceInsights_신청서.md
